@@ -29,18 +29,21 @@
 
 ### 🌟 Featured Projects  
 
-#### 🧠 [QuizWise AI](https://www.quizwise-ai.live)
-> AI-based quiz and doubt-solving platform with OCR, AI quiz generation, and smart explanations.  
+#### 🏫 [Haazir](https://haazir-six.vercel.app)
+> **Smart Attendance Monitoring System** featuring:
+> - 3 Portals: Student, Teacher, Coordinator  
+> - 🧮 **Smart Timetable Generator** using mathematical optimization  
+> - ⚙️ **Smart Data Entry** (bulk add of students & teachers)  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/priyanshu-1006/priyanshu-1006/main/quizwise.png" alt="QuizWise AI Screenshot" width="90%" />
+  <img src="https://raw.githubusercontent.com/priyanshu-1006/priyanshu-1006/main/haazir.png" alt="Haazir Screenshot" width="90%" />
 </p>
 
 ---
 
-#### 📅 [Smart Booking System](https://bookease-client-uxab.vercel.app)
-> Full Stack Appointment Scheduler with JWT Auth, Calendar Slots, and Razorpay Integration.  
+#### 🧠 [QuizWise AI](https://www.quizwise-ai.live)
+> AI-based quiz and doubt-solving platform with OCR, AI quiz generation, and smart explanations.  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/priyanshu-1006/priyanshu-1006/main/bookease.png" alt="Booking System Screenshot" width="90%" />
+  <img src="https://raw.githubusercontent.com/priyanshu-1006/priyanshu-1006/main/quizwise.png" alt="QuizWise AI Screenshot" width="90%" />
 </p>
 
 ---
@@ -53,13 +56,27 @@
 
 ---
 
-#### 🏫 [Haazir](https://github.com/priyanshu-1006/Haazir)
-> **Smart Attendance Monitoring System** featuring:
-> - 3 Portals: Student, Teacher, Coordinator  
-> - 🧮 **Smart Timetable Generator** using mathematical optimization  
-> - ⚙️ **Smart Data Entry** (bulk add of students & teachers)  
+#### 📅 [Smart Booking System](https://bookease-client-uxab.vercel.app)
+> Full Stack Appointment Scheduler with JWT Auth, Calendar Slots, and Razorpay Integration.  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/priyanshu-1006/priyanshu-1006/main/haazir.png" alt="Haazir Screenshot" width="90%" />
+  <img src="https://raw.githubusercontent.com/priyanshu-1006/priyanshu-1006/main/bookease.png" alt="Booking System Screenshot" width="90%" />
+</p>
+
+---
+
+#### 🤖 [PathFinder AI](https://pathfinder-ai-eta.vercel.app/)
+> AI-powered career guidance platform that helps students and professionals discover ideal career paths using intelligent recommendations.  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/priyanshu-1006/priyanshu-1006/main/pathfinder.png" alt="PathFinder AI Screenshot" width="90%" />
+</p>
+
+---
+
+#### 🌐 [Google Developers Group On Campus - MMMUT GKP](https://gdg-frontend-seven.vercel.app/)
+> Official GDG On Campus MMMUT website — designed and developed by me.  
+> Built with modern UI/UX, responsive design, event & team showcase pages for the community.  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/priyanshu-1006/priyanshu-1006/main/gdg.png" alt="GDG MMMUT Screenshot" width="90%" />
 </p>
 
 ---
