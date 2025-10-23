@@ -1,16 +1,79 @@
-## Hi there 👋
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/priyanshu-1006/priyanshu-1006/main/header.png" alt="Header Banner" width="100%" />
+</p>
 
-<!--
-**priyanshu-1006/priyanshu-1006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Priyanshu Chaurasia  
 
-Here are some ideas to get you started:
+🚀 **Full Stack Developer | AI Enthusiast | 2nd Year B.Tech CSE @ MMMUT**  
+💼 **Currently serving as CTO at [Gryork Pvt. Ltd.](https://gryork.com)**  
+🌱 Learning **Full Stack & AI-driven Web Apps**  
+💡 Passionate about building scalable systems and smart solutions  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧰 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,postgresql,mongodb,python,git,github,tailwind,vercel,vscode" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=priyanshu-1006&show_icons=true&theme=radical" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-1006&layout=compact&theme=radical" height="160px"/>
+</p>
+
+---
+
+### 🌟 Featured Projects  
+
+#### 🧠 [QuizWise AI](https://www.quizwise-ai.live)
+> AI-based quiz and doubt-solving platform with OCR, AI quiz generation, and smart explanations.  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/priyanshu-1006/priyanshu-1006/main/quizwise.png" alt="QuizWise AI Screenshot" width="90%" />
+</p>
+
+---
+
+#### 📅 [Smart Booking System](https://bookease-client-uxab.vercel.app)
+> Full Stack Appointment Scheduler with JWT Auth, Calendar Slots, and Razorpay Integration.  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/priyanshu-1006/priyanshu-1006/main/bookease.png" alt="Booking System Screenshot" width="90%" />
+</p>
+
+---
+
+#### 💼 [Gryork Platform](https://gryork.com)
+> Digital infrastructure payment solution addressing ₹1.51 lakh crore stuck payments in India.  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/priyanshu-1006/priyanshu-1006/main/gryork.png" alt="Gryork Screenshot" width="90%" />
+</p>
+
+---
+
+#### 🏫 [Haazir](https://github.com/priyanshu-1006/Haazir)
+> **Smart Attendance Monitoring System** featuring:
+> - 3 Portals: Student, Teacher, Coordinator  
+> - 🧮 **Smart Timetable Generator** using mathematical optimization  
+> - ⚙️ **Smart Data Entry** (bulk add of students & teachers)  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/priyanshu-1006/priyanshu-1006/main/haazir.png" alt="Haazir Screenshot" width="90%" />
+</p>
+
+---
+
+### 📫 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/priyanshu-chaurasia-326979335">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:priyanshuchaurasiadlw@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+> ✨ *“Code. Create. Contribute.”*
