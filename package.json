@@ -1,0 +1,14 @@
+{
+  "name": "priyanshu-github-profile",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "build": "node scripts/build-profile.mjs",
+    "refresh": "node scripts/build-profile.mjs --refresh",
+    "check": "node scripts/check-profile.mjs"
+  }
+}

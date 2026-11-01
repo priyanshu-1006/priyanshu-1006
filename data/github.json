@@ -1,0 +1,3141 @@
+{
+  "generatedAt": "2026-11-01T21:18:00.775Z",
+  "partial": true,
+  "user": {
+    "login": "priyanshu-1006",
+    "name": "Priyanshu Chaurasia",
+    "url": "https://github.com/priyanshu-1006",
+    "avatar": "https://avatars.githubusercontent.com/u/220466360?v=4",
+    "bio": "I am Pursuing Btech in Computer Science and Engineering from Madan Mohan Malviya University Of Technology, Gorakhpur",
+    "publicRepos": 23,
+    "followers": 9,
+    "following": 5,
+    "createdAt": "2025-07-12T08:23:57Z"
+  },
+  "totals": {
+    "repos": 20,
+    "commits": 280,
+    "topContributorIn": 14,
+    "stars": 3,
+    "externalRepos": 3,
+    "recentPushes": 4,
+    "activeDays": 3
+  },
+  "calendar": {
+    "total": 1100,
+    "commits": null,
+    "pullRequests": null,
+    "issues": null,
+    "reviews": null,
+    "private": null,
+    "activeDays": 220,
+    "busiestDay": {
+      "date": "2026-01-05",
+      "contributionCount": 38
+    },
+    "days": [
+      {
+        "d": "2025-11-02",
+        "c": 0
+      },
+      {
+        "d": "2025-11-03",
+        "c": 0
+      },
+      {
+        "d": "2025-11-04",
+        "c": 1
+      },
+      {
+        "d": "2025-11-05",
+        "c": 11
+      },
+      {
+        "d": "2025-11-06",
+        "c": 4
+      },
+      {
+        "d": "2025-11-07",
+        "c": 6
+      },
+      {
+        "d": "2025-11-08",
+        "c": 2
+      },
+      {
+        "d": "2025-11-09",
+        "c": 4
+      },
+      {
+        "d": "2025-11-10",
+        "c": 0
+      },
+      {
+        "d": "2025-11-11",
+        "c": 15
+      },
+      {
+        "d": "2025-11-12",
+        "c": 0
+      },
+      {
+        "d": "2025-11-13",
+        "c": 0
+      },
+      {
+        "d": "2025-11-14",
+        "c": 7
+      },
+      {
+        "d": "2025-11-15",
+        "c": 8
+      },
+      {
+        "d": "2025-11-16",
+        "c": 0
+      },
+      {
+        "d": "2025-11-17",
+        "c": 2
+      },
+      {
+        "d": "2025-11-18",
+        "c": 0
+      },
+      {
+        "d": "2025-11-19",
+        "c": 1
+      },
+      {
+        "d": "2025-11-20",
+        "c": 11
+      },
+      {
+        "d": "2025-11-21",
+        "c": 1
+      },
+      {
+        "d": "2025-11-22",
+        "c": 0
+      },
+      {
+        "d": "2025-11-23",
+        "c": 0
+      },
+      {
+        "d": "2025-11-24",
+        "c": 0
+      },
+      {
+        "d": "2025-11-25",
+        "c": 0
+      },
+      {
+        "d": "2025-11-26",
+        "c": 0
+      },
+      {
+        "d": "2025-11-27",
+        "c": 2
+      },
+      {
+        "d": "2025-11-28",
+        "c": 4
+      },
+      {
+        "d": "2025-11-29",
+        "c": 22
+      },
+      {
+        "d": "2025-11-30",
+        "c": 0
+      },
+      {
+        "d": "2025-12-01",
+        "c": 1
+      },
+      {
+        "d": "2025-12-02",
+        "c": 7
+      },
+      {
+        "d": "2025-12-03",
+        "c": 11
+      },
+      {
+        "d": "2025-12-04",
+        "c": 15
+      },
+      {
+        "d": "2025-12-05",
+        "c": 0
+      },
+      {
+        "d": "2025-12-06",
+        "c": 7
+      },
+      {
+        "d": "2025-12-07",
+        "c": 12
+      },
+      {
+        "d": "2025-12-08",
+        "c": 12
+      },
+      {
+        "d": "2025-12-09",
+        "c": 1
+      },
+      {
+        "d": "2025-12-10",
+        "c": 3
+      },
+      {
+        "d": "2025-12-11",
+        "c": 27
+      },
+      {
+        "d": "2025-12-12",
+        "c": 0
+      },
+      {
+        "d": "2025-12-13",
+        "c": 2
+      },
+      {
+        "d": "2025-12-14",
+        "c": 3
+      },
+      {
+        "d": "2025-12-15",
+        "c": 0
+      },
+      {
+        "d": "2025-12-16",
+        "c": 4
+      },
+      {
+        "d": "2025-12-17",
+        "c": 9
+      },
+      {
+        "d": "2025-12-18",
+        "c": 3
+      },
+      {
+        "d": "2025-12-19",
+        "c": 1
+      },
+      {
+        "d": "2025-12-20",
+        "c": 3
+      },
+      {
+        "d": "2025-12-21",
+        "c": 5
+      },
+      {
+        "d": "2025-12-22",
+        "c": 0
+      },
+      {
+        "d": "2025-12-23",
+        "c": 8
+      },
+      {
+        "d": "2025-12-24",
+        "c": 0
+      },
+      {
+        "d": "2025-12-25",
+        "c": 0
+      },
+      {
+        "d": "2025-12-26",
+        "c": 0
+      },
+      {
+        "d": "2025-12-27",
+        "c": 2
+      },
+      {
+        "d": "2025-12-28",
+        "c": 4
+      },
+      {
+        "d": "2025-12-29",
+        "c": 0
+      },
+      {
+        "d": "2025-12-30",
+        "c": 0
+      },
+      {
+        "d": "2025-12-31",
+        "c": 8
+      },
+      {
+        "d": "2026-01-01",
+        "c": 0
+      },
+      {
+        "d": "2026-01-02",
+        "c": 0
+      },
+      {
+        "d": "2026-01-03",
+        "c": 0
+      },
+      {
+        "d": "2026-01-04",
+        "c": 2
+      },
+      {
+        "d": "2026-01-05",
+        "c": 38
+      },
+      {
+        "d": "2026-01-06",
+        "c": 9
+      },
+      {
+        "d": "2026-01-07",
+        "c": 6
+      },
+      {
+        "d": "2026-01-08",
+        "c": 37
+      },
+      {
+        "d": "2026-01-09",
+        "c": 9
+      },
+      {
+        "d": "2026-01-10",
+        "c": 15
+      },
+      {
+        "d": "2026-01-11",
+        "c": 25
+      },
+      {
+        "d": "2026-01-12",
+        "c": 4
+      },
+      {
+        "d": "2026-01-13",
+        "c": 2
+      },
+      {
+        "d": "2026-01-14",
+        "c": 0
+      },
+      {
+        "d": "2026-01-15",
+        "c": 6
+      },
+      {
+        "d": "2026-01-16",
+        "c": 2
+      },
+      {
+        "d": "2026-01-17",
+        "c": 7
+      },
+      {
+        "d": "2026-01-18",
+        "c": 3
+      },
+      {
+        "d": "2026-01-19",
+        "c": 14
+      },
+      {
+        "d": "2026-01-20",
+        "c": 1
+      },
+      {
+        "d": "2026-01-21",
+        "c": 1
+      },
+      {
+        "d": "2026-01-22",
+        "c": 4
+      },
+      {
+        "d": "2026-01-23",
+        "c": 6
+      },
+      {
+        "d": "2026-01-24",
+        "c": 2
+      },
+      {
+        "d": "2026-01-25",
+        "c": 0
+      },
+      {
+        "d": "2026-01-26",
+        "c": 0
+      },
+      {
+        "d": "2026-01-27",
+        "c": 0
+      },
+      {
+        "d": "2026-01-28",
+        "c": 0
+      },
+      {
+        "d": "2026-01-29",
+        "c": 0
+      },
+      {
+        "d": "2026-01-30",
+        "c": 2
+      },
+      {
+        "d": "2026-01-31",
+        "c": 17
+      },
+      {
+        "d": "2026-02-01",
+        "c": 6
+      },
+      {
+        "d": "2026-02-02",
+        "c": 0
+      },
+      {
+        "d": "2026-02-03",
+        "c": 0
+      },
+      {
+        "d": "2026-02-04",
+        "c": 1
+      },
+      {
+        "d": "2026-02-05",
+        "c": 0
+      },
+      {
+        "d": "2026-02-06",
+        "c": 6
+      },
+      {
+        "d": "2026-02-07",
+        "c": 7
+      },
+      {
+        "d": "2026-02-08",
+        "c": 3
+      },
+      {
+        "d": "2026-02-09",
+        "c": 0
+      },
+      {
+        "d": "2026-02-10",
+        "c": 0
+      },
+      {
+        "d": "2026-02-11",
+        "c": 1
+      },
+      {
+        "d": "2026-02-12",
+        "c": 12
+      },
+      {
+        "d": "2026-02-13",
+        "c": 3
+      },
+      {
+        "d": "2026-02-14",
+        "c": 5
+      },
+      {
+        "d": "2026-02-15",
+        "c": 0
+      },
+      {
+        "d": "2026-02-16",
+        "c": 0
+      },
+      {
+        "d": "2026-02-17",
+        "c": 4
+      },
+      {
+        "d": "2026-02-18",
+        "c": 9
+      },
+      {
+        "d": "2026-02-19",
+        "c": 4
+      },
+      {
+        "d": "2026-02-20",
+        "c": 12
+      },
+      {
+        "d": "2026-02-21",
+        "c": 3
+      },
+      {
+        "d": "2026-02-22",
+        "c": 2
+      },
+      {
+        "d": "2026-02-23",
+        "c": 2
+      },
+      {
+        "d": "2026-02-24",
+        "c": 1
+      },
+      {
+        "d": "2026-02-25",
+        "c": 0
+      },
+      {
+        "d": "2026-02-26",
+        "c": 0
+      },
+      {
+        "d": "2026-02-27",
+        "c": 2
+      },
+      {
+        "d": "2026-02-28",
+        "c": 3
+      },
+      {
+        "d": "2026-03-01",
+        "c": 2
+      },
+      {
+        "d": "2026-03-02",
+        "c": 3
+      },
+      {
+        "d": "2026-03-03",
+        "c": 3
+      },
+      {
+        "d": "2026-03-04",
+        "c": 1
+      },
+      {
+        "d": "2026-03-05",
+        "c": 0
+      },
+      {
+        "d": "2026-03-06",
+        "c": 0
+      },
+      {
+        "d": "2026-03-07",
+        "c": 3
+      },
+      {
+        "d": "2026-03-08",
+        "c": 1
+      },
+      {
+        "d": "2026-03-09",
+        "c": 4
+      },
+      {
+        "d": "2026-03-10",
+        "c": 2
+      },
+      {
+        "d": "2026-03-11",
+        "c": 0
+      },
+      {
+        "d": "2026-03-12",
+        "c": 0
+      },
+      {
+        "d": "2026-03-13",
+        "c": 0
+      },
+      {
+        "d": "2026-03-14",
+        "c": 9
+      },
+      {
+        "d": "2026-03-15",
+        "c": 5
+      },
+      {
+        "d": "2026-03-16",
+        "c": 0
+      },
+      {
+        "d": "2026-03-17",
+        "c": 0
+      },
+      {
+        "d": "2026-03-18",
+        "c": 0
+      },
+      {
+        "d": "2026-03-19",
+        "c": 1
+      },
+      {
+        "d": "2026-03-20",
+        "c": 0
+      },
+      {
+        "d": "2026-03-21",
+        "c": 6
+      },
+      {
+        "d": "2026-03-22",
+        "c": 1
+      },
+      {
+        "d": "2026-03-23",
+        "c": 8
+      },
+      {
+        "d": "2026-03-24",
+        "c": 1
+      },
+      {
+        "d": "2026-03-25",
+        "c": 0
+      },
+      {
+        "d": "2026-03-26",
+        "c": 0
+      },
+      {
+        "d": "2026-03-27",
+        "c": 10
+      },
+      {
+        "d": "2026-03-28",
+        "c": 0
+      },
+      {
+        "d": "2026-03-29",
+        "c": 0
+      },
+      {
+        "d": "2026-03-30",
+        "c": 8
+      },
+      {
+        "d": "2026-03-31",
+        "c": 4
+      },
+      {
+        "d": "2026-04-01",
+        "c": 0
+      },
+      {
+        "d": "2026-04-02",
+        "c": 4
+      },
+      {
+        "d": "2026-04-03",
+        "c": 4
+      },
+      {
+        "d": "2026-04-04",
+        "c": 0
+      },
+      {
+        "d": "2026-04-05",
+        "c": 0
+      },
+      {
+        "d": "2026-04-06",
+        "c": 5
+      },
+      {
+        "d": "2026-04-07",
+        "c": 0
+      },
+      {
+        "d": "2026-04-08",
+        "c": 0
+      },
+      {
+        "d": "2026-04-09",
+        "c": 1
+      },
+      {
+        "d": "2026-04-10",
+        "c": 0
+      },
+      {
+        "d": "2026-04-11",
+        "c": 5
+      },
+      {
+        "d": "2026-04-12",
+        "c": 4
+      },
+      {
+        "d": "2026-04-13",
+        "c": 0
+      },
+      {
+        "d": "2026-04-14",
+        "c": 0
+      },
+      {
+        "d": "2026-04-15",
+        "c": 0
+      },
+      {
+        "d": "2026-04-16",
+        "c": 0
+      },
+      {
+        "d": "2026-04-17",
+        "c": 0
+      },
+      {
+        "d": "2026-04-18",
+        "c": 2
+      },
+      {
+        "d": "2026-04-19",
+        "c": 3
+      },
+      {
+        "d": "2026-04-20",
+        "c": 0
+      },
+      {
+        "d": "2026-04-21",
+        "c": 0
+      },
+      {
+        "d": "2026-04-22",
+        "c": 0
+      },
+      {
+        "d": "2026-04-23",
+        "c": 0
+      },
+      {
+        "d": "2026-04-24",
+        "c": 0
+      },
+      {
+        "d": "2026-04-25",
+        "c": 2
+      },
+      {
+        "d": "2026-04-26",
+        "c": 12
+      },
+      {
+        "d": "2026-04-27",
+        "c": 0
+      },
+      {
+        "d": "2026-04-28",
+        "c": 0
+      },
+      {
+        "d": "2026-04-29",
+        "c": 0
+      },
+      {
+        "d": "2026-04-30",
+        "c": 0
+      },
+      {
+        "d": "2026-05-01",
+        "c": 1
+      },
+      {
+        "d": "2026-05-02",
+        "c": 4
+      },
+      {
+        "d": "2026-05-03",
+        "c": 0
+      },
+      {
+        "d": "2026-05-04",
+        "c": 0
+      },
+      {
+        "d": "2026-05-05",
+        "c": 8
+      },
+      {
+        "d": "2026-05-06",
+        "c": 4
+      },
+      {
+        "d": "2026-05-07",
+        "c": 5
+      },
+      {
+        "d": "2026-05-08",
+        "c": 3
+      },
+      {
+        "d": "2026-05-09",
+        "c": 3
+      },
+      {
+        "d": "2026-05-10",
+        "c": 0
+      },
+      {
+        "d": "2026-05-11",
+        "c": 2
+      },
+      {
+        "d": "2026-05-12",
+        "c": 0
+      },
+      {
+        "d": "2026-05-13",
+        "c": 0
+      },
+      {
+        "d": "2026-05-14",
+        "c": 0
+      },
+      {
+        "d": "2026-05-15",
+        "c": 10
+      },
+      {
+        "d": "2026-05-16",
+        "c": 3
+      },
+      {
+        "d": "2026-05-17",
+        "c": 2
+      },
+      {
+        "d": "2026-05-18",
+        "c": 2
+      },
+      {
+        "d": "2026-05-19",
+        "c": 3
+      },
+      {
+        "d": "2026-05-20",
+        "c": 2
+      },
+      {
+        "d": "2026-05-21",
+        "c": 4
+      },
+      {
+        "d": "2026-05-22",
+        "c": 2
+      },
+      {
+        "d": "2026-05-23",
+        "c": 3
+      },
+      {
+        "d": "2026-05-24",
+        "c": 11
+      },
+      {
+        "d": "2026-05-25",
+        "c": 7
+      },
+      {
+        "d": "2026-05-26",
+        "c": 3
+      },
+      {
+        "d": "2026-05-27",
+        "c": 17
+      },
+      {
+        "d": "2026-05-28",
+        "c": 2
+      },
+      {
+        "d": "2026-05-29",
+        "c": 8
+      },
+      {
+        "d": "2026-05-30",
+        "c": 1
+      },
+      {
+        "d": "2026-05-31",
+        "c": 0
+      },
+      {
+        "d": "2026-06-01",
+        "c": 2
+      },
+      {
+        "d": "2026-06-02",
+        "c": 0
+      },
+      {
+        "d": "2026-06-03",
+        "c": 1
+      },
+      {
+        "d": "2026-06-04",
+        "c": 6
+      },
+      {
+        "d": "2026-06-05",
+        "c": 9
+      },
+      {
+        "d": "2026-06-06",
+        "c": 3
+      },
+      {
+        "d": "2026-06-07",
+        "c": 1
+      },
+      {
+        "d": "2026-06-08",
+        "c": 0
+      },
+      {
+        "d": "2026-06-09",
+        "c": 7
+      },
+      {
+        "d": "2026-06-10",
+        "c": 0
+      },
+      {
+        "d": "2026-06-11",
+        "c": 2
+      },
+      {
+        "d": "2026-06-12",
+        "c": 4
+      },
+      {
+        "d": "2026-06-13",
+        "c": 0
+      },
+      {
+        "d": "2026-06-14",
+        "c": 2
+      },
+      {
+        "d": "2026-06-15",
+        "c": 3
+      },
+      {
+        "d": "2026-06-16",
+        "c": 12
+      },
+      {
+        "d": "2026-06-17",
+        "c": 9
+      },
+      {
+        "d": "2026-06-18",
+        "c": 1
+      },
+      {
+        "d": "2026-06-19",
+        "c": 0
+      },
+      {
+        "d": "2026-06-20",
+        "c": 4
+      },
+      {
+        "d": "2026-06-21",
+        "c": 3
+      },
+      {
+        "d": "2026-06-22",
+        "c": 0
+      },
+      {
+        "d": "2026-06-23",
+        "c": 1
+      },
+      {
+        "d": "2026-06-24",
+        "c": 1
+      },
+      {
+        "d": "2026-06-25",
+        "c": 0
+      },
+      {
+        "d": "2026-06-26",
+        "c": 4
+      },
+      {
+        "d": "2026-06-27",
+        "c": 1
+      },
+      {
+        "d": "2026-06-28",
+        "c": 0
+      },
+      {
+        "d": "2026-06-29",
+        "c": 0
+      },
+      {
+        "d": "2026-06-30",
+        "c": 5
+      },
+      {
+        "d": "2026-07-01",
+        "c": 3
+      },
+      {
+        "d": "2026-07-02",
+        "c": 0
+      },
+      {
+        "d": "2026-07-03",
+        "c": 4
+      },
+      {
+        "d": "2026-07-04",
+        "c": 0
+      },
+      {
+        "d": "2026-07-05",
+        "c": 2
+      },
+      {
+        "d": "2026-07-06",
+        "c": 1
+      },
+      {
+        "d": "2026-07-07",
+        "c": 3
+      },
+      {
+        "d": "2026-07-08",
+        "c": 13
+      },
+      {
+        "d": "2026-07-09",
+        "c": 0
+      },
+      {
+        "d": "2026-07-10",
+        "c": 3
+      },
+      {
+        "d": "2026-07-11",
+        "c": 0
+      },
+      {
+        "d": "2026-07-12",
+        "c": 0
+      },
+      {
+        "d": "2026-07-13",
+        "c": 0
+      },
+      {
+        "d": "2026-07-14",
+        "c": 0
+      },
+      {
+        "d": "2026-07-15",
+        "c": 3
+      },
+      {
+        "d": "2026-07-16",
+        "c": 0
+      },
+      {
+        "d": "2026-07-17",
+        "c": 0
+      },
+      {
+        "d": "2026-07-18",
+        "c": 0
+      },
+      {
+        "d": "2026-07-19",
+        "c": 0
+      },
+      {
+        "d": "2026-07-20",
+        "c": 1
+      },
+      {
+        "d": "2026-07-21",
+        "c": 1
+      },
+      {
+        "d": "2026-07-22",
+        "c": 0
+      },
+      {
+        "d": "2026-07-23",
+        "c": 1
+      },
+      {
+        "d": "2026-07-24",
+        "c": 0
+      },
+      {
+        "d": "2026-07-25",
+        "c": 0
+      },
+      {
+        "d": "2026-07-26",
+        "c": 17
+      },
+      {
+        "d": "2026-07-27",
+        "c": 0
+      },
+      {
+        "d": "2026-07-28",
+        "c": 1
+      },
+      {
+        "d": "2026-07-29",
+        "c": 0
+      },
+      {
+        "d": "2026-07-30",
+        "c": 7
+      },
+      {
+        "d": "2026-07-31",
+        "c": 6
+      },
+      {
+        "d": "2026-08-01",
+        "c": 3
+      },
+      {
+        "d": "2026-08-02",
+        "c": 15
+      },
+      {
+        "d": "2026-08-03",
+        "c": 4
+      },
+      {
+        "d": "2026-08-04",
+        "c": 0
+      },
+      {
+        "d": "2026-08-05",
+        "c": 0
+      },
+      {
+        "d": "2026-08-06",
+        "c": 8
+      },
+      {
+        "d": "2026-08-07",
+        "c": 1
+      },
+      {
+        "d": "2026-08-08",
+        "c": 0
+      },
+      {
+        "d": "2026-08-09",
+        "c": 0
+      },
+      {
+        "d": "2026-08-10",
+        "c": 0
+      },
+      {
+        "d": "2026-08-11",
+        "c": 2
+      },
+      {
+        "d": "2026-08-12",
+        "c": 11
+      },
+      {
+        "d": "2026-08-13",
+        "c": 10
+      },
+      {
+        "d": "2026-08-14",
+        "c": 9
+      },
+      {
+        "d": "2026-08-15",
+        "c": 3
+      },
+      {
+        "d": "2026-08-16",
+        "c": 1
+      },
+      {
+        "d": "2026-08-17",
+        "c": 0
+      },
+      {
+        "d": "2026-08-18",
+        "c": 0
+      },
+      {
+        "d": "2026-08-19",
+        "c": 1
+      },
+      {
+        "d": "2026-08-20",
+        "c": 1
+      },
+      {
+        "d": "2026-08-21",
+        "c": 1
+      },
+      {
+        "d": "2026-08-22",
+        "c": 1
+      },
+      {
+        "d": "2026-08-23",
+        "c": 2
+      },
+      {
+        "d": "2026-08-24",
+        "c": 0
+      },
+      {
+        "d": "2026-08-25",
+        "c": 0
+      },
+      {
+        "d": "2026-08-26",
+        "c": 0
+      },
+      {
+        "d": "2026-08-27",
+        "c": 1
+      },
+      {
+        "d": "2026-08-28",
+        "c": 2
+      },
+      {
+        "d": "2026-08-29",
+        "c": 0
+      },
+      {
+        "d": "2026-08-30",
+        "c": 0
+      },
+      {
+        "d": "2026-08-31",
+        "c": 0
+      },
+      {
+        "d": "2026-09-01",
+        "c": 0
+      },
+      {
+        "d": "2026-09-02",
+        "c": 0
+      },
+      {
+        "d": "2026-09-03",
+        "c": 0
+      },
+      {
+        "d": "2026-09-04",
+        "c": 0
+      },
+      {
+        "d": "2026-09-05",
+        "c": 0
+      },
+      {
+        "d": "2026-09-06",
+        "c": 1
+      },
+      {
+        "d": "2026-09-07",
+        "c": 3
+      },
+      {
+        "d": "2026-09-08",
+        "c": 2
+      },
+      {
+        "d": "2026-09-09",
+        "c": 4
+      },
+      {
+        "d": "2026-09-10",
+        "c": 7
+      },
+      {
+        "d": "2026-09-11",
+        "c": 4
+      },
+      {
+        "d": "2026-09-12",
+        "c": 0
+      },
+      {
+        "d": "2026-09-13",
+        "c": 0
+      },
+      {
+        "d": "2026-09-14",
+        "c": 4
+      },
+      {
+        "d": "2026-09-15",
+        "c": 2
+      },
+      {
+        "d": "2026-09-16",
+        "c": 0
+      },
+      {
+        "d": "2026-09-17",
+        "c": 1
+      },
+      {
+        "d": "2026-09-18",
+        "c": 1
+      },
+      {
+        "d": "2026-09-19",
+        "c": 4
+      },
+      {
+        "d": "2026-09-20",
+        "c": 5
+      },
+      {
+        "d": "2026-09-21",
+        "c": 3
+      },
+      {
+        "d": "2026-09-22",
+        "c": 1
+      },
+      {
+        "d": "2026-09-23",
+        "c": 0
+      },
+      {
+        "d": "2026-09-24",
+        "c": 0
+      },
+      {
+        "d": "2026-09-25",
+        "c": 3
+      },
+      {
+        "d": "2026-09-26",
+        "c": 5
+      },
+      {
+        "d": "2026-09-27",
+        "c": 5
+      },
+      {
+        "d": "2026-09-28",
+        "c": 2
+      },
+      {
+        "d": "2026-09-29",
+        "c": 2
+      },
+      {
+        "d": "2026-09-30",
+        "c": 2
+      },
+      {
+        "d": "2026-10-01",
+        "c": 0
+      },
+      {
+        "d": "2026-10-02",
+        "c": 0
+      },
+      {
+        "d": "2026-10-03",
+        "c": 0
+      },
+      {
+        "d": "2026-10-04",
+        "c": 4
+      },
+      {
+        "d": "2026-10-05",
+        "c": 0
+      },
+      {
+        "d": "2026-10-06",
+        "c": 0
+      },
+      {
+        "d": "2026-10-07",
+        "c": 0
+      },
+      {
+        "d": "2026-10-08",
+        "c": 0
+      },
+      {
+        "d": "2026-10-09",
+        "c": 0
+      },
+      {
+        "d": "2026-10-10",
+        "c": 2
+      },
+      {
+        "d": "2026-10-11",
+        "c": 1
+      },
+      {
+        "d": "2026-10-12",
+        "c": 0
+      },
+      {
+        "d": "2026-10-13",
+        "c": 0
+      },
+      {
+        "d": "2026-10-14",
+        "c": 0
+      },
+      {
+        "d": "2026-10-15",
+        "c": 2
+      },
+      {
+        "d": "2026-10-16",
+        "c": 0
+      },
+      {
+        "d": "2026-10-17",
+        "c": 0
+      },
+      {
+        "d": "2026-10-18",
+        "c": 0
+      },
+      {
+        "d": "2026-10-19",
+        "c": 1
+      },
+      {
+        "d": "2026-10-20",
+        "c": 5
+      },
+      {
+        "d": "2026-10-21",
+        "c": 0
+      },
+      {
+        "d": "2026-10-22",
+        "c": 0
+      },
+      {
+        "d": "2026-10-23",
+        "c": 9
+      },
+      {
+        "d": "2026-10-24",
+        "c": 4
+      },
+      {
+        "d": "2026-10-25",
+        "c": 4
+      },
+      {
+        "d": "2026-10-26",
+        "c": 0
+      },
+      {
+        "d": "2026-10-27",
+        "c": 6
+      },
+      {
+        "d": "2026-10-28",
+        "c": 1
+      },
+      {
+        "d": "2026-10-29",
+        "c": 1
+      },
+      {
+        "d": "2026-10-30",
+        "c": 2
+      },
+      {
+        "d": "2026-10-31",
+        "c": 2
+      },
+      {
+        "d": "2026-11-01",
+        "c": 1
+      }
+    ],
+    "source": "github-public-profile",
+    "fetchedAt": "2026-11-01T21:18:00.721Z"
+  },
+  "history": {
+    "source": "github-public-commit-search",
+    "fetchedAt": "2026-11-01T21:18:00.775Z",
+    "totalIndexed": 483,
+    "sampled": true,
+    "incomplete": false,
+    "commits": [
+      {
+        "sha": "d3199aa38889584787877c98df546d0284ed26bc",
+        "shortSha": "d3199aa",
+        "repository": "priyanshu-1006/PriyanshuHai",
+        "repoName": "PriyanshuHai",
+        "message": "Automation",
+        "authoredAt": "2026-11-02T02:21:45.000+05:30",
+        "committedAt": "2026-11-02T02:21:45.000+05:30",
+        "url": "https://github.com/priyanshu-1006/PriyanshuHai/commit/d3199aa38889584787877c98df546d0284ed26bc",
+        "automated": false
+      },
+      {
+        "sha": "7d6e23045d6aafc2f3c5ce6dd261d31d3c919bf2",
+        "shortSha": "7d6e230",
+        "repository": "priyanshu-1006/PriyanshuHai",
+        "repoName": "PriyanshuHai",
+        "message": "Few updates",
+        "authoredAt": "2026-11-02T01:40:36.000+05:30",
+        "committedAt": "2026-11-02T01:40:36.000+05:30",
+        "url": "https://github.com/priyanshu-1006/PriyanshuHai/commit/7d6e23045d6aafc2f3c5ce6dd261d31d3c919bf2",
+        "automated": false
+      },
+      {
+        "sha": "fe324d5450b3b6e2e6c1334d19d908442f622273",
+        "shortSha": "fe324d5",
+        "repository": "priyanshu-1006/PriyanshuHai",
+        "repoName": "PriyanshuHai",
+        "message": "Minor Changes",
+        "authoredAt": "2026-11-01T23:28:43.000+05:30",
+        "committedAt": "2026-11-01T23:28:43.000+05:30",
+        "url": "https://github.com/priyanshu-1006/PriyanshuHai/commit/fe324d5450b3b6e2e6c1334d19d908442f622273",
+        "automated": false
+      },
+      {
+        "sha": "9b0a76116c23b53a6c08a2416642f8a1354e3c4b",
+        "shortSha": "9b0a761",
+        "repository": "priyanshu-1006/Generative-AI",
+        "repoName": "Generative-AI",
+        "message": "Add Student Depression Dataset for analysis with Seaborn",
+        "authoredAt": "2026-10-24T15:47:21.000+05:30",
+        "committedAt": "2026-10-24T15:47:21.000+05:30",
+        "url": "https://github.com/priyanshu-1006/Generative-AI/commit/9b0a76116c23b53a6c08a2416642f8a1354e3c4b",
+        "automated": false
+      },
+      {
+        "sha": "ba139fd7402951828896d1fdd85f174ea5c8cf23",
+        "shortSha": "ba139fd",
+        "repository": "priyanshu-1006/Generative-AI",
+        "repoName": "Generative-AI",
+        "message": "Seaborn start",
+        "authoredAt": "2026-10-20T17:09:41.000+05:30",
+        "committedAt": "2026-10-20T17:09:41.000+05:30",
+        "url": "https://github.com/priyanshu-1006/Generative-AI/commit/ba139fd7402951828896d1fdd85f174ea5c8cf23",
+        "automated": false
+      },
+      {
+        "sha": "87de0a55b77c742b1a6ce2c4e2ce39796894f125",
+        "shortSha": "87de0a5",
+        "repository": "priyanshu-1006/Little_Code",
+        "repoName": "Little_Code",
+        "message": "New changes",
+        "authoredAt": "2026-10-20T00:24:20.000+05:30",
+        "committedAt": "2026-10-20T00:24:20.000+05:30",
+        "url": "https://github.com/priyanshu-1006/Little_Code/commit/87de0a55b77c742b1a6ce2c4e2ce39796894f125",
+        "automated": false
+      },
+      {
+        "sha": "84ad3c119136f7e0a3f81a7a4cc438076a3bb1f1",
+        "shortSha": "84ad3c1",
+        "repository": "priyanshu-1006/Little_Code",
+        "repoName": "Little_Code",
+        "message": "Showcase website",
+        "authoredAt": "2026-10-19T13:25:08.000+05:30",
+        "committedAt": "2026-10-19T13:25:08.000+05:30",
+        "url": "https://github.com/priyanshu-1006/Little_Code/commit/84ad3c119136f7e0a3f81a7a4cc438076a3bb1f1",
+        "automated": false
+      },
+      {
+        "sha": "3aa6a02ba403afb8e6bc537348244e31e5b8baf6",
+        "shortSha": "3aa6a02",
+        "repository": "priyanshu-1006/Little_Code",
+        "repoName": "Little_Code",
+        "message": "Version 0.3.0",
+        "authoredAt": "2026-10-11T00:27:21.000+05:30",
+        "committedAt": "2026-10-11T00:27:21.000+05:30",
+        "url": "https://github.com/priyanshu-1006/Little_Code/commit/3aa6a02ba403afb8e6bc537348244e31e5b8baf6",
+        "automated": false
+      },
+      {
+        "sha": "fb49afdfce6b583eccbbbc28d036301f4373dee2",
+        "shortSha": "fb49afd",
+        "repository": "priyanshu-1006/Little_Code",
+        "repoName": "Little_Code",
+        "message": "First Version",
+        "authoredAt": "2026-10-10T12:16:11.000+05:30",
+        "committedAt": "2026-10-10T12:16:11.000+05:30",
+        "url": "https://github.com/priyanshu-1006/Little_Code/commit/fb49afdfce6b583eccbbbc28d036301f4373dee2",
+        "automated": false
+      },
+      {
+        "sha": "a1b6d7e20ea6fba93af9d0d8be17f3e8ef15b530",
+        "shortSha": "a1b6d7e",
+        "repository": "ananya-in-tech/Ananya_Portfolio",
+        "repoName": "Ananya_Portfolio",
+        "message": "fix",
+        "authoredAt": "2026-09-08T23:43:10.000+05:30",
+        "committedAt": "2026-09-08T23:43:10.000+05:30",
+        "url": "https://github.com/ananya-in-tech/Ananya_Portfolio/commit/a1b6d7e20ea6fba93af9d0d8be17f3e8ef15b530",
+        "automated": false
+      },
+      {
+        "sha": "3391bcbb0effca51a2bb02f9e168568646a1039a",
+        "shortSha": "3391bcb",
+        "repository": "ananya-in-tech/Ananya_Portfolio",
+        "repoName": "Ananya_Portfolio",
+        "message": "Initial portfolio implementation",
+        "authoredAt": "2026-09-08T23:30:29.000+05:30",
+        "committedAt": "2026-09-08T23:30:29.000+05:30",
+        "url": "https://github.com/ananya-in-tech/Ananya_Portfolio/commit/3391bcbb0effca51a2bb02f9e168568646a1039a",
+        "automated": false
+      },
+      {
+        "sha": "f8856d87be87204bef4fd5b857604091be8f2994",
+        "shortSha": "f8856d8",
+        "repository": "priyanshu-1006/PriyanshuHai",
+        "repoName": "PriyanshuHai",
+        "message": "Resume Added",
+        "authoredAt": "2026-08-23T15:10:19.000+05:30",
+        "committedAt": "2026-08-23T15:10:19.000+05:30",
+        "url": "https://github.com/priyanshu-1006/PriyanshuHai/commit/f8856d87be87204bef4fd5b857604091be8f2994",
+        "automated": false
+      },
+      {
+        "sha": "6def684c623ffbcca2a6929196aecb23c4f3a17a",
+        "shortSha": "6def684",
+        "repository": "priyanshu-1006/PriyanshuHai",
+        "repoName": "PriyanshuHai",
+        "message": "Done",
+        "authoredAt": "2026-08-23T03:37:29.000+05:30",
+        "committedAt": "2026-08-23T03:37:29.000+05:30",
+        "url": "https://github.com/priyanshu-1006/PriyanshuHai/commit/6def684c623ffbcca2a6929196aecb23c4f3a17a",
+        "automated": false
+      },
+      {
+        "sha": "3cb523898f8f74d41995c2932927c111f47618da",
+        "shortSha": "3cb5238",
+        "repository": "priyanshu-1006/DSA",
+        "repoName": "DSA",
+        "message": "Add implementations for Trie data structure and related problems, including distinct substrings, maximum XOR, and string manipulations",
+        "authoredAt": "2026-08-01T00:26:26.000+05:30",
+        "committedAt": "2026-08-01T00:26:26.000+05:30",
+        "url": "https://github.com/priyanshu-1006/DSA/commit/3cb523898f8f74d41995c2932927c111f47618da",
+        "automated": false
+      },
+      {
+        "sha": "6baf42516d221267aa9de421181c058fbafda177",
+        "shortSha": "6baf425",
+        "repository": "priyanshu-1006/DSA",
+        "repoName": "DSA",
+        "message": "Complete Basics of CPP",
+        "authoredAt": "2026-07-31T01:43:14.000+05:30",
+        "committedAt": "2026-07-31T01:43:14.000+05:30",
+        "url": "https://github.com/priyanshu-1006/DSA/commit/6baf42516d221267aa9de421181c058fbafda177",
+        "automated": false
+      },
+      {
+        "sha": "5bcade684628160131201efb74b7ae42db7a64e5",
+        "shortSha": "5bcade6",
+        "repository": "priyanshu-1006/Generative-AI",
+        "repoName": "Generative-AI",
+        "message": "Matplotib done",
+        "authoredAt": "2026-07-23T01:58:20.000+05:30",
+        "committedAt": "2026-07-23T01:58:20.000+05:30",
+        "url": "https://github.com/priyanshu-1006/Generative-AI/commit/5bcade684628160131201efb74b7ae42db7a64e5",
+        "automated": false
+      },
+      {
+        "sha": "fffd6c904cd57aa9568f6713787b4af488f5e71a",
+        "shortSha": "fffd6c9",
+        "repository": "priyanshu-1006/Generative-AI",
+        "repoName": "Generative-AI",
+        "message": "Multiple Bar Charts",
+        "authoredAt": "2026-07-21T20:58:06.000+05:30",
+        "committedAt": "2026-07-21T20:58:06.000+05:30",
+        "url": "https://github.com/priyanshu-1006/Generative-AI/commit/fffd6c904cd57aa9568f6713787b4af488f5e71a",
+        "automated": false
+      },
+      {
+        "sha": "f2a5a7a5ca0863e33e71761d7df78135d7d51f55",
+        "shortSha": "f2a5a7a",
+        "repository": "priyanshu-1006/Generative-AI",
+        "repoName": "Generative-AI",
+        "message": "Add new datasets for analysis: Student Depression and Chocolate Sales",
+        "authoredAt": "2026-07-20T20:30:31.000+05:30",
+        "committedAt": "2026-07-20T20:30:31.000+05:30",
+        "url": "https://github.com/priyanshu-1006/Generative-AI/commit/f2a5a7a5ca0863e33e71761d7df78135d7d51f55",
+        "automated": false
+      },
+      {
+        "sha": "463c33226f1a534967d3c59a27afada293e36860",
+        "shortSha": "463c332",
+        "repository": "riteshydv05/Grylink_New",
+        "repoName": "Grylink_New",
+        "message": "chore: Add fill-scores script to distribute scores proportionally",
+        "authoredAt": "2026-07-08T01:18:12.000+05:30",
+        "committedAt": "2026-07-08T01:18:12.000+05:30",
+        "url": "https://github.com/riteshydv05/Grylink_New/commit/463c33226f1a534967d3c59a27afada293e36860",
+        "automated": false
+      },
+      {
+        "sha": "8699c1f279179ec6e7cf1b45d4517d8048f36ae2",
+        "shortSha": "8699c1f",
+        "repository": "riteshydv05/Grylink_New",
+        "repoName": "Grylink_New",
+        "message": "fix: Conclude cohort 2026, disable registrations, and add verify credentials CTAs on landing page",
+        "authoredAt": "2026-07-08T01:01:34.000+05:30",
+        "committedAt": "2026-07-08T01:01:34.000+05:30",
+        "url": "https://github.com/riteshydv05/Grylink_New/commit/8699c1f279179ec6e7cf1b45d4517d8048f36ae2",
+        "automated": false
+      },
+      {
+        "sha": "ed35e6bcb3c67aedaa6beb715b8e4c324b638ae6",
+        "shortSha": "ed35e6b",
+        "repository": "riteshydv05/Grylink_New",
+        "repoName": "Grylink_New",
+        "message": "chore: Add fix-dates script to update selection letter and certificate dates",
+        "authoredAt": "2026-07-08T00:53:41.000+05:30",
+        "committedAt": "2026-07-08T00:53:41.000+05:30",
+        "url": "https://github.com/riteshydv05/Grylink_New/commit/ed35e6bcb3c67aedaa6beb715b8e4c324b638ae6",
+        "automated": false
+      },
+      {
+        "sha": "4e569c1e9f3e4ed738634235efd4d26bf1d38359",
+        "shortSha": "4e569c1",
+        "repository": "riteshydv05/Grylink_New",
+        "repoName": "Grylink_New",
+        "message": "fix: Override Tailwind max-width and aspect-ratio limits during print to fill full A4 sheet",
+        "authoredAt": "2026-07-08T00:40:55.000+05:30",
+        "committedAt": "2026-07-08T00:40:55.000+05:30",
+        "url": "https://github.com/riteshydv05/Grylink_New/commit/4e569c1e9f3e4ed738634235efd4d26bf1d38359",
+        "automated": false
+      },
+      {
+        "sha": "7ff20080fdc82fec83ebb2f3790aae4b31635eb8",
+        "shortSha": "7ff2008",
+        "repository": "riteshydv05/Grylink_New",
+        "repoName": "Grylink_New",
+        "message": "fix: Update print layout scaling and orientation with @page A4 CSS rules",
+        "authoredAt": "2026-07-08T00:35:34.000+05:30",
+        "committedAt": "2026-07-08T00:35:34.000+05:30",
+        "url": "https://github.com/riteshydv05/Grylink_New/commit/7ff20080fdc82fec83ebb2f3790aae4b31635eb8",
+        "automated": false
+      },
+      {
+        "sha": "ec4cbd3d46b090efa4909a020c4811dc94f287e3",
+        "shortSha": "ec4cbd3",
+        "repository": "riteshydv05/Grylink_New",
+        "repoName": "Grylink_New",
+        "message": "fix: Fix blank print page issue, and add left/right variable alignment support for fitment",
+        "authoredAt": "2026-07-08T00:21:42.000+05:30",
+        "committedAt": "2026-07-08T00:21:42.000+05:30",
+        "url": "https://github.com/riteshydv05/Grylink_New/commit/ec4cbd3d46b090efa4909a020c4811dc94f287e3",
+        "automated": false
+      },
+      {
+        "sha": "369d79bb0f1407c23dea9f61674b9ab63b397acd",
+        "shortSha": "369d79b",
+        "repository": "riteshydv05/Grylink_New",
+        "repoName": "Grylink_New",
+        "message": "feat: Add standalone download pages, correct domain names, and implement server-side PDFKit attachments",
+        "authoredAt": "2026-07-08T00:11:21.000+05:30",
+        "committedAt": "2026-07-08T00:11:21.000+05:30",
+        "url": "https://github.com/riteshydv05/Grylink_New/commit/369d79bb0f1407c23dea9f61674b9ab63b397acd",
+        "automated": false
+      },
+      {
+        "sha": "7f9206e042cb0478ccb108c7f606f02ccc418941",
+        "shortSha": "7f9206e",
+        "repository": "riteshydv05/Grylink_New",
+        "repoName": "Grylink_New",
+        "message": "Certificare upload",
+        "authoredAt": "2026-07-07T23:16:45.000+05:30",
+        "committedAt": "2026-07-07T23:16:45.000+05:30",
+        "url": "https://github.com/riteshydv05/Grylink_New/commit/7f9206e042cb0478ccb108c7f606f02ccc418941",
+        "automated": false
+      },
+      {
+        "sha": "137c36e679bfefe7c438e930b654ba7b034f2ae4",
+        "shortSha": "137c36e",
+        "repository": "riteshydv05/Grylink_New",
+        "repoName": "Grylink_New",
+        "message": "Merge branch 'main' of https://github.com/riteshydv05/Grylink_New",
+        "authoredAt": "2026-07-07T23:07:13.000+05:30",
+        "committedAt": "2026-07-07T23:07:13.000+05:30",
+        "url": "https://github.com/riteshydv05/Grylink_New/commit/137c36e679bfefe7c438e930b654ba7b034f2ae4",
+        "automated": false
+      },
+      {
+        "sha": "7ef7f46286ffa106be919bc7e653dd1bd9f3e56b",
+        "shortSha": "7ef7f46",
+        "repository": "riteshydv05/Grylink_New",
+        "repoName": "Grylink_New",
+        "message": "feat: Add Joining Letter Management, variables deletion, email dispatches, and advanced scorecard with submissions",
+        "authoredAt": "2026-07-07T23:07:00.000+05:30",
+        "committedAt": "2026-07-07T23:07:00.000+05:30",
+        "url": "https://github.com/riteshydv05/Grylink_New/commit/7ef7f46286ffa106be919bc7e653dd1bd9f3e56b",
+        "automated": false
+      },
+      {
+        "sha": "1d01e0b847fe0a87641c3cdf4740890704d42a79",
+        "shortSha": "1d01e0b",
+        "repository": "riteshydv05/Grylink_New",
+        "repoName": "Grylink_New",
+        "message": "feat(techpreneur): support custom template variables and map pre-existing scorecard evaluation values in admin portal",
+        "authoredAt": "2026-06-26T16:33:40.000+05:30",
+        "committedAt": "2026-06-26T16:33:40.000+05:30",
+        "url": "https://github.com/riteshydv05/Grylink_New/commit/1d01e0b847fe0a87641c3cdf4740890704d42a79",
+        "automated": false
+      },
+      {
+        "sha": "3aeeaa03311983ce4f07077047b82ca1c229afc9",
+        "shortSha": "3aeeaa0",
+        "repository": "riteshydv05/Grylink_New",
+        "repoName": "Grylink_New",
+        "message": "feat(techpreneur): implement certificate template builder, issuance, preview and verification system",
+        "authoredAt": "2026-06-26T15:24:41.000+05:30",
+        "committedAt": "2026-06-26T15:24:41.000+05:30",
+        "url": "https://github.com/riteshydv05/Grylink_New/commit/3aeeaa03311983ce4f07077047b82ca1c229afc9",
+        "automated": false
+      },
+      {
+        "sha": "6625b8f4f9b0bbad9a5e93e881272f0a215ad5e5",
+        "shortSha": "6625b8f",
+        "repository": "riteshydv05/Grylink_New",
+        "repoName": "Grylink_New",
+        "message": "done",
+        "authoredAt": "2026-06-21T16:53:17.000+05:30",
+        "committedAt": "2026-06-21T16:53:17.000+05:30",
+        "url": "https://github.com/riteshydv05/Grylink_New/commit/6625b8f4f9b0bbad9a5e93e881272f0a215ad5e5",
+        "automated": false
+      },
+      {
+        "sha": "b5d511e85806b14568c0a5f30ec60433ceb708ca",
+        "shortSha": "b5d511e",
+        "repository": "riteshydv05/Grylink_New",
+        "repoName": "Grylink_New",
+        "message": "Changes",
+        "authoredAt": "2026-06-21T16:38:43.000+05:30",
+        "committedAt": "2026-06-21T16:38:43.000+05:30",
+        "url": "https://github.com/riteshydv05/Grylink_New/commit/b5d511e85806b14568c0a5f30ec60433ceb708ca",
+        "automated": false
+      },
+      {
+        "sha": "ac5882588dd42b16896b7f8a120457d47c5ceab2",
+        "shortSha": "ac58825",
+        "repository": "riteshydv05/Grylink_New",
+        "repoName": "Grylink_New",
+        "message": "Project",
+        "authoredAt": "2026-06-21T15:34:21.000+05:30",
+        "committedAt": "2026-06-21T15:34:21.000+05:30",
+        "url": "https://github.com/riteshydv05/Grylink_New/commit/ac5882588dd42b16896b7f8a120457d47c5ceab2",
+        "automated": false
+      },
+      {
+        "sha": "fce84a3d9def36015a77af564987c1294466fece",
+        "shortSha": "fce84a3",
+        "repository": "priyanshu-1006/Generative-AI",
+        "repoName": "Generative-AI",
+        "message": "Pandas done",
+        "authoredAt": "2026-06-18T16:29:10.000+05:30",
+        "committedAt": "2026-06-18T16:29:10.000+05:30",
+        "url": "https://github.com/priyanshu-1006/Generative-AI/commit/fce84a3d9def36015a77af564987c1294466fece",
+        "automated": false
+      },
+      {
+        "sha": "5b307f4959f2644097b351dc9a75c6c88abeecff",
+        "shortSha": "5b307f4",
+        "repository": "priyanshu-1006/Ai-Support-System",
+        "repoName": "Ai-Support-System",
+        "message": "Deployment done and CORS updated",
+        "authoredAt": "2026-06-15T21:25:51.000+05:30",
+        "committedAt": "2026-06-15T21:25:51.000+05:30",
+        "url": "https://github.com/priyanshu-1006/Ai-Support-System/commit/5b307f4959f2644097b351dc9a75c6c88abeecff",
+        "automated": false
+      },
+      {
+        "sha": "7f11d574aa2de1692c569229e189e5ad7b10ff4b",
+        "shortSha": "7f11d57",
+        "repository": "priyanshu-1006/Ai-Support-System",
+        "repoName": "Ai-Support-System",
+        "message": "Merge branch 'main' of https://github.com/priyanshu-1006/Ai-Support-System",
+        "authoredAt": "2026-06-12T20:23:13.000+05:30",
+        "committedAt": "2026-06-12T20:23:13.000+05:30",
+        "url": "https://github.com/priyanshu-1006/Ai-Support-System/commit/7f11d574aa2de1692c569229e189e5ad7b10ff4b",
+        "automated": false
+      },
+      {
+        "sha": "669d690c176c6db7b31f70e671419896d3b1c9d7",
+        "shortSha": "669d690",
+        "repository": "priyanshu-1006/Ai-Support-System",
+        "repoName": "Ai-Support-System",
+        "message": "feat: implement login and signup pages with dynamic carousel features",
+        "authoredAt": "2026-06-12T20:22:52.000+05:30",
+        "committedAt": "2026-06-12T20:22:52.000+05:30",
+        "url": "https://github.com/priyanshu-1006/Ai-Support-System/commit/669d690c176c6db7b31f70e671419896d3b1c9d7",
+        "automated": false
+      },
+      {
+        "sha": "252ed47bf06482d26a816ebef89cac73cdae378f",
+        "shortSha": "252ed47",
+        "repository": "priyanshu-1006/Generative-AI",
+        "repoName": "Generative-AI",
+        "message": "Plotting in Series",
+        "authoredAt": "2026-06-12T14:13:38.000+05:30",
+        "committedAt": "2026-06-12T14:13:38.000+05:30",
+        "url": "https://github.com/priyanshu-1006/Generative-AI/commit/252ed47bf06482d26a816ebef89cac73cdae378f",
+        "automated": false
+      },
+      {
+        "sha": "56a55b92be2b0f889587a6c24b72f46ac4e1e06e",
+        "shortSha": "56a55b9",
+        "repository": "priyanshu-1006/Ai-Support-System",
+        "repoName": "Ai-Support-System",
+        "message": "frontend done",
+        "authoredAt": "2026-06-09T22:03:03.000+05:30",
+        "committedAt": "2026-06-09T22:03:03.000+05:30",
+        "url": "https://github.com/priyanshu-1006/Ai-Support-System/commit/56a55b92be2b0f889587a6c24b72f46ac4e1e06e",
+        "automated": false
+      },
+      {
+        "sha": "19a25b38e09a3742e0fdd6c28a2a13d56a31fe0e",
+        "shortSha": "19a25b3",
+        "repository": "priyanshu-1006/Ai-Support-System",
+        "repoName": "Ai-Support-System",
+        "message": "Project Initialise",
+        "authoredAt": "2026-06-09T21:09:07.000+05:30",
+        "committedAt": "2026-06-09T21:09:07.000+05:30",
+        "url": "https://github.com/priyanshu-1006/Ai-Support-System/commit/19a25b38e09a3742e0fdd6c28a2a13d56a31fe0e",
+        "automated": false
+      },
+      {
+        "sha": "70bf1cdda897d335c2a481cabd5e5f3031d7afe8",
+        "shortSha": "70bf1cd",
+        "repository": "priyanshu-1006/Ai-Support-System",
+        "repoName": "Ai-Support-System",
+        "message": "first commit",
+        "authoredAt": "2026-06-09T21:02:40.000+05:30",
+        "committedAt": "2026-06-09T21:02:40.000+05:30",
+        "url": "https://github.com/priyanshu-1006/Ai-Support-System/commit/70bf1cdda897d335c2a481cabd5e5f3031d7afe8",
+        "automated": false
+      },
+      {
+        "sha": "fedd65a104d939a898627bcd34f4ffad0b652451",
+        "shortSha": "fedd65a",
+        "repository": "riteshydv05/Grylink_New",
+        "repoName": "Grylink_New",
+        "message": "Market with 1499 and apply GST at checkout only",
+        "authoredAt": "2026-06-09T02:26:28.000+05:30",
+        "committedAt": "2026-06-09T02:26:28.000+05:30",
+        "url": "https://github.com/riteshydv05/Grylink_New/commit/fedd65a104d939a898627bcd34f4ffad0b652451",
+        "automated": false
+      },
+      {
+        "sha": "d5949787e4bc9e2998af4e025d325fa79a75d34c",
+        "shortSha": "d594978",
+        "repository": "riteshydv05/Grylink_New",
+        "repoName": "Grylink_New",
+        "message": "Fix PricingPhase destructuring bug and update deadline to June 15",
+        "authoredAt": "2026-06-09T02:14:59.000+05:30",
+        "committedAt": "2026-06-09T02:14:59.000+05:30",
+        "url": "https://github.com/riteshydv05/Grylink_New/commit/d5949787e4bc9e2998af4e025d325fa79a75d34c",
+        "automated": false
+      },
+      {
+        "sha": "119e2bf8561344a2698080f9418f8b979b7561eb",
+        "shortSha": "119e2bf",
+        "repository": "riteshydv05/Grylink_New",
+        "repoName": "Grylink_New",
+        "message": "Update landing page for Late Registration Window",
+        "authoredAt": "2026-06-09T02:09:59.000+05:30",
+        "committedAt": "2026-06-09T02:09:59.000+05:30",
+        "url": "https://github.com/riteshydv05/Grylink_New/commit/119e2bf8561344a2698080f9418f8b979b7561eb",
+        "automated": false
+      },
+      {
+        "sha": "0936661bb390b32afd4299f2a0611bfa7982d21e",
+        "shortSha": "0936661",
+        "repository": "priyanshu-1006/Generative-AI",
+        "repoName": "Generative-AI",
+        "message": "Add additional explanations and examples for Series functionalities in Pandas",
+        "authoredAt": "2026-06-07T03:36:51.000+05:30",
+        "committedAt": "2026-06-07T03:36:51.000+05:30",
+        "url": "https://github.com/priyanshu-1006/Generative-AI/commit/0936661bb390b32afd4299f2a0611bfa7982d21e",
+        "automated": false
+      },
+      {
+        "sha": "9a0cff7cf188bf5842fdaf927c26900a74c87d09",
+        "shortSha": "9a0cff7",
+        "repository": "riteshydv05/Grylink_New",
+        "repoName": "Grylink_New",
+        "message": "Update pricing to standard phase (1299+GST), reduce referral discount to 100, and update email templates",
+        "authoredAt": "2026-06-04T09:38:30.000+05:30",
+        "committedAt": "2026-06-04T09:38:30.000+05:30",
+        "url": "https://github.com/riteshydv05/Grylink_New/commit/9a0cff7cf188bf5842fdaf927c26900a74c87d09",
+        "automated": false
+      },
+      {
+        "sha": "9c63d6ba61f1cff218a8a5c37b1430ca430a4a70",
+        "shortSha": "9c63d6b",
+        "repository": "priyanshu-1006/Generative-AI",
+        "repoName": "Generative-AI",
+        "message": "DataFrame and new movie dataset CSV",
+        "authoredAt": "2026-06-03T23:31:29.000+05:30",
+        "committedAt": "2026-06-03T23:31:29.000+05:30",
+        "url": "https://github.com/priyanshu-1006/Generative-AI/commit/9c63d6ba61f1cff218a8a5c37b1430ca430a4a70",
+        "automated": false
+      },
+      {
+        "sha": "2836f2b00b3694cd2dd2482e653d4401c4f218a7",
+        "shortSha": "2836f2b",
+        "repository": "priyanshu-1006/Generative-AI",
+        "repoName": "Generative-AI",
+        "message": "Operator Overloading concepts and examples, Streamlit complete",
+        "authoredAt": "2026-05-30T17:25:38.000+05:30",
+        "committedAt": "2026-05-30T17:25:38.000+05:30",
+        "url": "https://github.com/priyanshu-1006/Generative-AI/commit/2836f2b00b3694cd2dd2482e653d4401c4f218a7",
+        "automated": false
+      },
+      {
+        "sha": "6a5526414abd48661dc0997eb06efc8f540764b8",
+        "shortSha": "6a55264",
+        "repository": "priyanshu-1006/Generative-AI",
+        "repoName": "Generative-AI",
+        "message": "Add Jupyter notebooks for Abstraction and Magic Methods concepts in OOP",
+        "authoredAt": "2026-05-29T02:38:00.000+05:30",
+        "committedAt": "2026-05-29T02:38:00.000+05:30",
+        "url": "https://github.com/priyanshu-1006/Generative-AI/commit/6a5526414abd48661dc0997eb06efc8f540764b8",
+        "automated": false
+      },
+      {
+        "sha": "7f1cd1787447604ea1d2296d41e53de875ec7015",
+        "shortSha": "7f1cd17",
+        "repository": "priyanshu-1006/Generative-AI",
+        "repoName": "Generative-AI",
+        "message": "Add Jupyter notebooks for Polymorphism and Encapsulation concepts in OOP",
+        "authoredAt": "2026-05-29T01:47:04.000+05:30",
+        "committedAt": "2026-05-29T01:47:04.000+05:30",
+        "url": "https://github.com/priyanshu-1006/Generative-AI/commit/7f1cd1787447604ea1d2296d41e53de875ec7015",
+        "automated": false
+      },
+      {
+        "sha": "ec26d84e67bbf3247365f1e63d3d815d7e98abc2",
+        "shortSha": "ec26d84",
+        "repository": "riteshydv05/Grylink_New",
+        "repoName": "Grylink_New",
+        "message": "Admin panel enhancements: Pagination, Referral tracking fixes, Welcome Email dispatcher, and Promo Code edit support",
+        "authoredAt": "2026-05-28T03:20:43.000+05:30",
+        "committedAt": "2026-05-28T03:20:43.000+05:30",
+        "url": "https://github.com/riteshydv05/Grylink_New/commit/ec26d84e67bbf3247365f1e63d3d815d7e98abc2",
+        "automated": false
+      },
+      {
+        "sha": "c17c11493cc33ae0d3696190becf7d81f7073b69",
+        "shortSha": "c17c114",
+        "repository": "riteshydv05/Grylink_New",
+        "repoName": "Grylink_New",
+        "message": "feat: add comprehensive admin dashboard for TechPreneur including registration management, referral tracking, and backend support",
+        "authoredAt": "2026-05-28T00:03:48.000+05:30",
+        "committedAt": "2026-05-28T00:03:48.000+05:30",
+        "url": "https://github.com/riteshydv05/Grylink_New/commit/c17c11493cc33ae0d3696190becf7d81f7073b69",
+        "automated": false
+      },
+      {
+        "sha": "0d210492b7764c794fe3215c5f7da08de82466dd",
+        "shortSha": "0d21049",
+        "repository": "riteshydv05/Grylink_New",
+        "repoName": "Grylink_New",
+        "message": "feat: Update referral rewards to ₹200 discount and ₹100 cashback",
+        "authoredAt": "2026-05-27T15:46:17.000+05:30",
+        "committedAt": "2026-05-27T15:46:17.000+05:30",
+        "url": "https://github.com/riteshydv05/Grylink_New/commit/0d210492b7764c794fe3215c5f7da08de82466dd",
+        "automated": false
+      },
+      {
+        "sha": "5297e48aa3aa1ab96a014879a6874b3f9a826c70",
+        "shortSha": "5297e48",
+        "repository": "riteshydv05/Grylink_New",
+        "repoName": "Grylink_New",
+        "message": "Prmocode feature",
+        "authoredAt": "2026-05-27T11:24:14.000+05:30",
+        "committedAt": "2026-05-27T11:24:14.000+05:30",
+        "url": "https://github.com/riteshydv05/Grylink_New/commit/5297e48aa3aa1ab96a014879a6874b3f9a826c70",
+        "automated": false
+      },
+      {
+        "sha": "c25c95687198b84840b1daee3e79aafce80336b4",
+        "shortSha": "c25c956",
+        "repository": "riteshydv05/Grylink_New",
+        "repoName": "Grylink_New",
+        "message": "Refferal System",
+        "authoredAt": "2026-05-26T15:19:09.000+05:30",
+        "committedAt": "2026-05-26T15:19:09.000+05:30",
+        "url": "https://github.com/riteshydv05/Grylink_New/commit/c25c95687198b84840b1daee3e79aafce80336b4",
+        "automated": false
+      },
+      {
+        "sha": "733759e7b4f070d98bc4559b529db721553b6046",
+        "shortSha": "733759e",
+        "repository": "riteshydv05/Grylink_New",
+        "repoName": "Grylink_New",
+        "message": "fix: Shift early bird deadline to past so Founding phase takes effect immediately and update fallbacks",
+        "authoredAt": "2026-05-26T11:51:37.000+05:30",
+        "committedAt": "2026-05-26T11:51:37.000+05:30",
+        "url": "https://github.com/riteshydv05/Grylink_New/commit/733759e7b4f070d98bc4559b529db721553b6046",
+        "automated": false
+      },
+      {
+        "sha": "d2a88825575383cdf847269322c710a376761013",
+        "shortSha": "d2a8882",
+        "repository": "riteshydv05/Grylink_New",
+        "repoName": "Grylink_New",
+        "message": "feat: Update to Founding Batch pricing at 1299, add bonuses, features and GST breakdown",
+        "authoredAt": "2026-05-26T11:45:50.000+05:30",
+        "committedAt": "2026-05-26T11:45:50.000+05:30",
+        "url": "https://github.com/riteshydv05/Grylink_New/commit/d2a88825575383cdf847269322c710a376761013",
+        "automated": false
+      },
+      {
+        "sha": "2a797c68539ddbb2f301107bf73a93e81b879b2e",
+        "shortSha": "2a797c6",
+        "repository": "riteshydv05/Grylink_New",
+        "repoName": "Grylink_New",
+        "message": "feat: Remove Pay Later functionality from registration page",
+        "authoredAt": "2026-05-25T21:20:32.000+05:30",
+        "committedAt": "2026-05-25T21:20:32.000+05:30",
+        "url": "https://github.com/riteshydv05/Grylink_New/commit/2a797c68539ddbb2f301107bf73a93e81b879b2e",
+        "automated": false
+      },
+      {
+        "sha": "9ae169eb456ddad8927586a59fae08490005464f",
+        "shortSha": "9ae169e",
+        "repository": "riteshydv05/Grylink_New",
+        "repoName": "Grylink_New",
+        "message": "fix: Add missing Phone icon import in Registration.tsx",
+        "authoredAt": "2026-05-25T21:12:40.000+05:30",
+        "committedAt": "2026-05-25T21:12:40.000+05:30",
+        "url": "https://github.com/riteshydv05/Grylink_New/commit/9ae169eb456ddad8927586a59fae08490005464f",
+        "automated": false
+      },
+      {
+        "sha": "ade05da4d9e6fab682d5fe2329f2b96ff486f653",
+        "shortSha": "ade05da",
+        "repository": "riteshydv05/Grylink_New",
+        "repoName": "Grylink_New",
+        "message": "feat: Remove maintenance break code entirely, extend early bird offer to May 26 12pm IST",
+        "authoredAt": "2026-05-25T21:07:07.000+05:30",
+        "committedAt": "2026-05-25T21:07:07.000+05:30",
+        "url": "https://github.com/riteshydv05/Grylink_New/commit/ade05da4d9e6fab682d5fe2329f2b96ff486f653",
+        "automated": false
+      },
+      {
+        "sha": "262c23d157d7d1398a07dab126a047de1b24c295",
+        "shortSha": "262c23d",
+        "repository": "riteshydv05/Grylink_New",
+        "repoName": "Grylink_New",
+        "message": "fix: Use findOneAndUpdate with dollar-set for settings toggle so boolean false persists correctly in MongoDB",
+        "authoredAt": "2026-05-25T20:57:09.000+05:30",
+        "committedAt": "2026-05-25T20:57:09.000+05:30",
+        "url": "https://github.com/riteshydv05/Grylink_New/commit/262c23d157d7d1398a07dab126a047de1b24c295",
+        "automated": false
+      },
+      {
+        "sha": "b996f6e6ea9603f5747351415a1540fe6d774cdd",
+        "shortSha": "b996f6e",
+        "repository": "riteshydv05/Grylink_New",
+        "repoName": "Grylink_New",
+        "message": "feat: New Razorpay live gateway — backend returns key_id in create-order, dual env var support",
+        "authoredAt": "2026-05-25T20:48:32.000+05:30",
+        "committedAt": "2026-05-25T20:48:32.000+05:30",
+        "url": "https://github.com/riteshydv05/Grylink_New/commit/b996f6e6ea9603f5747351415a1540fe6d774cdd",
+        "automated": false
+      },
+      {
+        "sha": "f3395d5ead36675e853315c211ecfc005a58fefd",
+        "shortSha": "f3395d5",
+        "repository": "riteshydv05/Grylink_New",
+        "repoName": "Grylink_New",
+        "message": "feat: Maintenance mode toggle, Pay Later registration, admin control panel",
+        "authoredAt": "2026-05-25T18:24:56.000+05:30",
+        "committedAt": "2026-05-25T18:24:56.000+05:30",
+        "url": "https://github.com/riteshydv05/Grylink_New/commit/f3395d5ead36675e853315c211ecfc005a58fefd",
+        "automated": false
+      },
+      {
+        "sha": "0d737f0803324ab960fe36baa0d1243fd8cf0b69",
+        "shortSha": "0d737f0",
+        "repository": "riteshydv05/Grylink_New",
+        "repoName": "Grylink_New",
+        "message": "feat: Extend early bird offer to 25 May, 8:00 PM IST",
+        "authoredAt": "2026-05-25T00:08:22.000+05:30",
+        "committedAt": "2026-05-25T00:08:22.000+05:30",
+        "url": "https://github.com/riteshydv05/Grylink_New/commit/0d737f0803324ab960fe36baa0d1243fd8cf0b69",
+        "automated": false
+      },
+      {
+        "sha": "8c7e32f8c41a5f72a608761e8d9e2a01174af7fe",
+        "shortSha": "8c7e32f",
+        "repository": "riteshydv05/Grylink_New",
+        "repoName": "Grylink_New",
+        "message": "feat: Replace HTML mock certificate with actual Gryork_Certificate image in WhatYouGet component",
+        "authoredAt": "2026-05-24T17:01:10.000+05:30",
+        "committedAt": "2026-05-24T17:01:10.000+05:30",
+        "url": "https://github.com/riteshydv05/Grylink_New/commit/8c7e32f8c41a5f72a608761e8d9e2a01174af7fe",
+        "automated": false
+      },
+      {
+        "sha": "4c862abb33cde40361e347533912cae9590c1f31",
+        "shortSha": "4c862ab",
+        "repository": "riteshydv05/Grylink_New",
+        "repoName": "Grylink_New",
+        "message": "chore: Update favicon to use gryork logo",
+        "authoredAt": "2026-05-24T15:07:34.000+05:30",
+        "committedAt": "2026-05-24T15:07:34.000+05:30",
+        "url": "https://github.com/riteshydv05/Grylink_New/commit/4c862abb33cde40361e347533912cae9590c1f31",
+        "automated": false
+      },
+      {
+        "sha": "fdf87eec66cff28f9538adddd8be8d6293488274",
+        "shortSha": "fdf87ee",
+        "repository": "riteshydv05/Grylink_New",
+        "repoName": "Grylink_New",
+        "message": "Brochure Added",
+        "authoredAt": "2026-05-24T14:50:25.000+05:30",
+        "committedAt": "2026-05-24T14:50:25.000+05:30",
+        "url": "https://github.com/riteshydv05/Grylink_New/commit/fdf87eec66cff28f9538adddd8be8d6293488274",
+        "automated": false
+      },
+      {
+        "sha": "bbceea5aada8693e1026f627ae6c4c44f1231c04",
+        "shortSha": "bbceea5",
+        "repository": "riteshydv05/Grylink_New",
+        "repoName": "Grylink_New",
+        "message": "feat: Professional invoice PDF + confirmation email with invoice attachment on payment",
+        "authoredAt": "2026-05-24T13:35:11.000+05:30",
+        "committedAt": "2026-05-24T13:35:11.000+05:30",
+        "url": "https://github.com/riteshydv05/Grylink_New/commit/bbceea5aada8693e1026f627ae6c4c44f1231c04",
+        "automated": false
+      },
+      {
+        "sha": "bb6ff3e55eccdce89b0f1f0e49f80995f9af4c20",
+        "shortSha": "bb6ff3e",
+        "repository": "riteshydv05/Grylink_New",
+        "repoName": "Grylink_New",
+        "message": "feat: Add manual registration for students who already paid but DB save failed",
+        "authoredAt": "2026-05-24T13:21:54.000+05:30",
+        "committedAt": "2026-05-24T13:21:54.000+05:30",
+        "url": "https://github.com/riteshydv05/Grylink_New/commit/bb6ff3e55eccdce89b0f1f0e49f80995f9af4c20",
+        "automated": false
+      },
+      {
+        "sha": "27f57f7b4c65d778041e5b0777f881d3bf09a8c9",
+        "shortSha": "27f57f7",
+        "repository": "riteshydv05/Grylink_New",
+        "repoName": "Grylink_New",
+        "message": "fix: Phone sanitization, inline validation, payment fallback screen, and model enum fixes",
+        "authoredAt": "2026-05-24T13:11:17.000+05:30",
+        "committedAt": "2026-05-24T13:11:17.000+05:30",
+        "url": "https://github.com/riteshydv05/Grylink_New/commit/27f57f7b4c65d778041e5b0777f881d3bf09a8c9",
+        "automated": false
+      },
+      {
+        "sha": "ba3267b6580657acfe63d74243ad78a5e625d72e",
+        "shortSha": "ba3267b",
+        "repository": "riteshydv05/Grylink_New",
+        "repoName": "Grylink_New",
+        "message": "fix: Use correct env var name RAZORPAY_SECRET_KEY to match .env",
+        "authoredAt": "2026-05-24T12:58:10.000+05:30",
+        "committedAt": "2026-05-24T12:58:10.000+05:30",
+        "url": "https://github.com/riteshydv05/Grylink_New/commit/ba3267b6580657acfe63d74243ad78a5e625d72e",
+        "automated": false
+      },
+      {
+        "sha": "196de918406e332ef9b751befcf5179750584bd0",
+        "shortSha": "196de91",
+        "repository": "riteshydv05/Grylink_New",
+        "repoName": "Grylink_New",
+        "message": "fix: Instantiate Razorpay per-request to fix Vercel env var timing issue",
+        "authoredAt": "2026-05-24T12:47:55.000+05:30",
+        "committedAt": "2026-05-24T12:47:55.000+05:30",
+        "url": "https://github.com/riteshydv05/Grylink_New/commit/196de918406e332ef9b751befcf5179750584bd0",
+        "automated": false
+      },
+      {
+        "sha": "9d0f4b4981c7129ab2f69527393371c98f035aa0",
+        "shortSha": "9d0f4b4",
+        "repository": "riteshydv05/Grylink_New",
+        "repoName": "Grylink_New",
+        "message": "feat: Integrate Razorpay and Invoice generation for TechPreneur Registration",
+        "authoredAt": "2026-05-24T12:14:06.000+05:30",
+        "committedAt": "2026-05-24T12:14:06.000+05:30",
+        "url": "https://github.com/riteshydv05/Grylink_New/commit/9d0f4b4981c7129ab2f69527393371c98f035aa0",
+        "automated": false
+      },
+      {
+        "sha": "210b7f678f8aaffdb78d49608350aea56bdafbf3",
+        "shortSha": "210b7f6",
+        "repository": "riteshydv05/Grylink_New",
+        "repoName": "Grylink_New",
+        "message": "feat: implement pricing logic API and add registration-related UI components",
+        "authoredAt": "2026-05-24T01:22:50.000+05:30",
+        "committedAt": "2026-05-24T01:22:50.000+05:30",
+        "url": "https://github.com/riteshydv05/Grylink_New/commit/210b7f678f8aaffdb78d49608350aea56bdafbf3",
+        "automated": false
+      },
+      {
+        "sha": "2f2080dbcfe2ad7f9b519e5a784b05badff8c103",
+        "shortSha": "2f2080d",
+        "repository": "riteshydv05/Grylink_New",
+        "repoName": "Grylink_New",
+        "message": "logo",
+        "authoredAt": "2026-05-23T17:52:14.000+05:30",
+        "committedAt": "2026-05-23T17:52:14.000+05:30",
+        "url": "https://github.com/riteshydv05/Grylink_New/commit/2f2080dbcfe2ad7f9b519e5a784b05badff8c103",
+        "automated": false
+      },
+      {
+        "sha": "14aed6970315668f2e5abb7357969c8f6620eb16",
+        "shortSha": "14aed69",
+        "repository": "riteshydv05/Grylink_New",
+        "repoName": "Grylink_New",
+        "message": "cors fix",
+        "authoredAt": "2026-05-23T17:29:10.000+05:30",
+        "committedAt": "2026-05-23T17:29:10.000+05:30",
+        "url": "https://github.com/riteshydv05/Grylink_New/commit/14aed6970315668f2e5abb7357969c8f6620eb16",
+        "automated": false
+      },
+      {
+        "sha": "141a0e06ca27236188e1202d1cb9a2957de3f949",
+        "shortSha": "141a0e0",
+        "repository": "riteshydv05/Grylink_New",
+        "repoName": "Grylink_New",
+        "message": "TechPreneur 2026",
+        "authoredAt": "2026-05-23T17:12:48.000+05:30",
+        "committedAt": "2026-05-23T17:12:48.000+05:30",
+        "url": "https://github.com/riteshydv05/Grylink_New/commit/141a0e06ca27236188e1202d1cb9a2957de3f949",
+        "automated": false
+      },
+      {
+        "sha": "5d0376038b87895f3cc766c3678e6d339715a853",
+        "shortSha": "5d03760",
+        "repository": "priyanshu-1006/Generative-AI",
+        "repoName": "Generative-AI",
+        "message": "Add standard libraries documentation and examples",
+        "authoredAt": "2026-05-22T10:54:39.000+05:30",
+        "committedAt": "2026-05-22T10:54:39.000+05:30",
+        "url": "https://github.com/priyanshu-1006/Generative-AI/commit/5d0376038b87895f3cc766c3678e6d339715a853",
+        "automated": false
+      },
+      {
+        "sha": "0e99be078a2b8710d272394eadbadeb838fcb681",
+        "shortSha": "0e99be0",
+        "repository": "priyanshu-1006/Generative-AI",
+        "repoName": "Generative-AI",
+        "message": "Add Filter Function notebook with examples and explanations",
+        "authoredAt": "2026-05-20T14:57:29.000+05:30",
+        "committedAt": "2026-05-20T14:57:29.000+05:30",
+        "url": "https://github.com/priyanshu-1006/Generative-AI/commit/0e99be078a2b8710d272394eadbadeb838fcb681",
+        "automated": false
+      },
+      {
+        "sha": "cfbc72a1424934fff14fc2f1c99b4076a75426b4",
+        "shortSha": "cfbc72a",
+        "repository": "priyanshu-1006/Generative-AI",
+        "repoName": "Generative-AI",
+        "message": "Map Function",
+        "authoredAt": "2026-05-20T10:45:33.000+05:30",
+        "committedAt": "2026-05-20T10:45:33.000+05:30",
+        "url": "https://github.com/priyanshu-1006/Generative-AI/commit/cfbc72a1424934fff14fc2f1c99b4076a75426b4",
+        "automated": false
+      },
+      {
+        "sha": "5f4cafb2f819918584a6d8920eb28c791a673a7a",
+        "shortSha": "5f4cafb",
+        "repository": "priyanshu-1006/Generative-AI",
+        "repoName": "Generative-AI",
+        "message": "Add function examples, lambda functions, and map function implementations",
+        "authoredAt": "2026-05-19T18:52:24.000+05:30",
+        "committedAt": "2026-05-19T18:52:24.000+05:30",
+        "url": "https://github.com/priyanshu-1006/Generative-AI/commit/5f4cafb2f819918584a6d8920eb28c791a673a7a",
+        "automated": false
+      },
+      {
+        "sha": "e2a496f3506b66a2ad5d69807b16d2a61bb91721",
+        "shortSha": "e2a496f",
+        "repository": "priyanshu-1006/Generative-AI",
+        "repoName": "Generative-AI",
+        "message": "Functions with translation examples and explanations",
+        "authoredAt": "2026-05-19T02:45:58.000+05:30",
+        "committedAt": "2026-05-19T02:45:58.000+05:30",
+        "url": "https://github.com/priyanshu-1006/Generative-AI/commit/e2a496f3506b66a2ad5d69807b16d2a61bb91721",
+        "automated": false
+      },
+      {
+        "sha": "cdf36ee980a04fb3fa28e5f66ebbcf0be5afabe2",
+        "shortSha": "cdf36ee",
+        "repository": "priyanshu-1006/Generative-AI",
+        "repoName": "Generative-AI",
+        "message": "Update kernel display name to include Python version and add new notebooks for Conditional Statements and Looping Statements",
+        "authoredAt": "2026-05-19T01:38:00.000+05:30",
+        "committedAt": "2026-05-19T01:38:00.000+05:30",
+        "url": "https://github.com/priyanshu-1006/Generative-AI/commit/cdf36ee980a04fb3fa28e5f66ebbcf0be5afabe2",
+        "automated": false
+      },
+      {
+        "sha": "08bc41c4bb4efc234e1c435aa2b0f606af60c4ad",
+        "shortSha": "08bc41c",
+        "repository": "priyanshu-1006/Generative-AI",
+        "repoName": "Generative-AI",
+        "message": "Sets and Dictionary data structures with detailed explanations, examples, and additional methods. Updated the Dictionary notebook to include shallow copy, nested dictionaries, and dictionary comprehension. Improved formatting and added outp",
+        "authoredAt": "2026-05-18T19:59:48.000+05:30",
+        "committedAt": "2026-05-18T19:59:48.000+05:30",
+        "url": "https://github.com/priyanshu-1006/Generative-AI/commit/08bc41c4bb4efc234e1c435aa2b0f606af60c4ad",
+        "automated": false
+      },
+      {
+        "sha": "01c54c1ae3c6474d59aae1a151337ae178df50e9",
+        "shortSha": "01c54c1",
+        "repository": "priyanshu-1006/Generative-AI",
+        "repoName": "Generative-AI",
+        "message": "Add Jupyter notebooks for Python data structures: Keywords, Tuples, Sets, and Dictionary",
+        "authoredAt": "2026-05-18T14:36:20.000+05:30",
+        "committedAt": "2026-05-18T14:36:20.000+05:30",
+        "url": "https://github.com/priyanshu-1006/Generative-AI/commit/01c54c1ae3c6474d59aae1a151337ae178df50e9",
+        "automated": false
+      },
+      {
+        "sha": "2696399058a45331400804df2fe3f7665539c408",
+        "shortSha": "2696399",
+        "repository": "priyanshu-1006/PrimeTrade.ai",
+        "repoName": "PrimeTrade.ai",
+        "message": "Fix Render Prisma build missing client",
+        "authoredAt": "2026-05-02T01:07:34.000+05:30",
+        "committedAt": "2026-05-02T01:07:34.000+05:30",
+        "url": "https://github.com/priyanshu-1006/PrimeTrade.ai/commit/2696399058a45331400804df2fe3f7665539c408",
+        "automated": false
+      },
+      {
+        "sha": "42058945eaf4fb5e54ff9dd61d68c29ae1b3dd3a",
+        "shortSha": "4205894",
+        "repository": "priyanshu-1006/PrimeTrade.ai",
+        "repoName": "PrimeTrade.ai",
+        "message": "Fix CORS and Vercel/Render cross-domain integration",
+        "authoredAt": "2026-05-02T01:05:24.000+05:30",
+        "committedAt": "2026-05-02T01:05:24.000+05:30",
+        "url": "https://github.com/priyanshu-1006/PrimeTrade.ai/commit/42058945eaf4fb5e54ff9dd61d68c29ae1b3dd3a",
+        "automated": false
+      },
+      {
+        "sha": "9e8982b42ce062a40cf9faea5f4326721f438a36",
+        "shortSha": "9e8982b",
+        "repository": "priyanshu-1006/PrimeTrade.ai",
+        "repoName": "PrimeTrade.ai",
+        "message": "Fix typescript build errors for Render",
+        "authoredAt": "2026-05-02T01:02:14.000+05:30",
+        "committedAt": "2026-05-02T01:02:14.000+05:30",
+        "url": "https://github.com/priyanshu-1006/PrimeTrade.ai/commit/9e8982b42ce062a40cf9faea5f4326721f438a36",
+        "automated": false
+      },
+      {
+        "sha": "f988ce2d90c930d6810552bfb7d882a69a41eb62",
+        "shortSha": "f988ce2",
+        "repository": "priyanshu-1006/PrimeTrade.ai",
+        "repoName": "PrimeTrade.ai",
+        "message": "Assignment",
+        "authoredAt": "2026-05-02T00:55:37.000+05:30",
+        "committedAt": "2026-05-02T00:55:37.000+05:30",
+        "url": "https://github.com/priyanshu-1006/PrimeTrade.ai/commit/f988ce2d90c930d6810552bfb7d882a69a41eb62",
+        "automated": false
+      },
+      {
+        "sha": "a98349849b3826e8c9f8fc08ff83d273aa6ff07a",
+        "shortSha": "a983498",
+        "repository": "priyanshu-1006/Pramaan-AI",
+        "repoName": "Pramaan-AI",
+        "message": "phase 10 done",
+        "authoredAt": "2026-04-19T12:44:14.000+05:30",
+        "committedAt": "2026-04-19T12:44:14.000+05:30",
+        "url": "https://github.com/priyanshu-1006/Pramaan-AI/commit/a98349849b3826e8c9f8fc08ff83d273aa6ff07a",
+        "automated": false
+      },
+      {
+        "sha": "dbaec80ce8294e8cabd3a94ddec4750d5b5ca2ec",
+        "shortSha": "dbaec80",
+        "repository": "priyanshu-1006/Pramaan-AI",
+        "repoName": "Pramaan-AI",
+        "message": "Chaliye shuru krte h",
+        "authoredAt": "2026-04-19T11:31:57.000+05:30",
+        "committedAt": "2026-04-19T11:31:57.000+05:30",
+        "url": "https://github.com/priyanshu-1006/Pramaan-AI/commit/dbaec80ce8294e8cabd3a94ddec4750d5b5ca2ec",
+        "automated": false
+      },
+      {
+        "sha": "4a8ab5176946f7e8a72a6969b77e8d0170d09ded",
+        "shortSha": "4a8ab51",
+        "repository": "rjnneesh/API-security",
+        "repoName": "API-security",
+        "message": "Set default values for MongoDB URI, JWT secret, and expiration in server.js; update JWT handling in security and User models",
+        "authoredAt": "2026-04-18T23:32:14.000+05:30",
+        "committedAt": "2026-04-18T23:32:14.000+05:30",
+        "url": "https://github.com/rjnneesh/API-security/commit/4a8ab5176946f7e8a72a6969b77e8d0170d09ded",
+        "automated": false
+      },
+      {
+        "sha": "513f2c025aff4fc7e30a7e87f00f8f8ecc01d596",
+        "shortSha": "513f2c0",
+        "repository": "rjnneesh/API-security",
+        "repoName": "API-security",
+        "message": "Refactor API URL handling and CORS configuration for improved flexibility",
+        "authoredAt": "2026-04-18T09:18:02.000+05:30",
+        "committedAt": "2026-04-18T09:18:02.000+05:30",
+        "url": "https://github.com/rjnneesh/API-security/commit/513f2c025aff4fc7e30a7e87f00f8f8ecc01d596",
+        "automated": false
+      },
+      {
+        "sha": "1a756faf8f672af376ee4e41e2bc633a1feec476",
+        "shortSha": "1a756fa",
+        "repository": "riteshydv05/Grylink_New",
+        "repoName": "Grylink_New",
+        "message": "feat: initialize discovery portal architecture and implement BDF/FPDF pipeline home page",
+        "authoredAt": "2026-04-06T15:00:46.000+05:30",
+        "committedAt": "2026-04-06T15:00:46.000+05:30",
+        "url": "https://github.com/riteshydv05/Grylink_New/commit/1a756faf8f672af376ee4e41e2bc633a1feec476",
+        "automated": false
+      },
+      {
+        "sha": "9c818376400af9a6890f9ed51b1ce48e57f9fe0b",
+        "shortSha": "9c81837",
+        "repository": "riteshydv05/Grylink_New",
+        "repoName": "Grylink_New",
+        "message": "Discorvery hosting",
+        "authoredAt": "2026-04-06T14:49:00.000+05:30",
+        "committedAt": "2026-04-06T14:49:00.000+05:30",
+        "url": "https://github.com/riteshydv05/Grylink_New/commit/9c818376400af9a6890f9ed51b1ce48e57f9fe0b",
+        "automated": false
+      },
+      {
+        "sha": "7f45eadd91234961d543c7812ebba5566a37ac27",
+        "shortSha": "7f45ead",
+        "repository": "riteshydv05/Grylink_New",
+        "repoName": "Grylink_New",
+        "message": "chore: initialize project dependencies and configuration files",
+        "authoredAt": "2026-04-06T14:30:56.000+05:30",
+        "committedAt": "2026-04-06T14:30:56.000+05:30",
+        "url": "https://github.com/riteshydv05/Grylink_New/commit/7f45eadd91234961d543c7812ebba5566a37ac27",
+        "automated": false
+      },
+      {
+        "sha": "db904a146148671a20496885e21b6191fdf4d23b",
+        "shortSha": "db904a1",
+        "repository": "riteshydv05/Grylink_New",
+        "repoName": "Grylink_New",
+        "message": "Merge branch 'main' of https://github.com/riteshydv05/Grylink_New",
+        "authoredAt": "2026-04-06T14:19:29.000+05:30",
+        "committedAt": "2026-04-06T14:19:29.000+05:30",
+        "url": "https://github.com/riteshydv05/Grylink_New/commit/db904a146148671a20496885e21b6191fdf4d23b",
+        "automated": false
+      },
+      {
+        "sha": "8cab65a1d543cce64ec4e3c127ee07ec29d415fd",
+        "shortSha": "8cab65a",
+        "repository": "riteshydv05/Grylink_New",
+        "repoName": "Grylink_New",
+        "message": "FBDF and BDF done",
+        "authoredAt": "2026-04-06T14:18:38.000+05:30",
+        "committedAt": "2026-04-06T14:18:38.000+05:30",
+        "url": "https://github.com/riteshydv05/Grylink_New/commit/8cab65a1d543cce64ec4e3c127ee07ec29d415fd",
+        "automated": false
+      },
+      {
+        "sha": "8c518bf5ac23d118a49efad955f78de6313a7d60",
+        "shortSha": "8c518bf",
+        "repository": "priyanshu-1006/GDG-Edit",
+        "repoName": "GDG-Edit",
+        "message": "feat: implement student selection and profile navigation in induction analytics",
+        "authoredAt": "2026-04-03T17:43:08.000+05:30",
+        "committedAt": "2026-04-03T17:43:08.000+05:30",
+        "url": "https://github.com/priyanshu-1006/GDG-Edit/commit/8c518bf5ac23d118a49efad955f78de6313a7d60",
+        "automated": false
+      },
+      {
+        "sha": "2073532bcf88a9ed32d2f2f9487788c9e0969aa7",
+        "shortSha": "2073532",
+        "repository": "priyanshu-1006/GDG-Edit",
+        "repoName": "GDG-Edit",
+        "message": "feat: add assigned students section with clickable evaluation cards",
+        "authoredAt": "2026-04-03T17:33:16.000+05:30",
+        "committedAt": "2026-04-03T17:33:16.000+05:30",
+        "url": "https://github.com/priyanshu-1006/GDG-Edit/commit/2073532bcf88a9ed32d2f2f9487788c9e0969aa7",
+        "automated": false
+      }
+    ]
+  },
+  "languages": [
+    {
+      "name": "JavaScript",
+      "commits": 114
+    },
+    {
+      "name": "TypeScript",
+      "commits": 65
+    },
+    {
+      "name": "C++",
+      "commits": 40
+    },
+    {
+      "name": "Jupyter Notebook",
+      "commits": 26
+    },
+    {
+      "name": "HTML",
+      "commits": 23
+    },
+    {
+      "name": "Python",
+      "commits": 7
+    }
+  ],
+  "contributions": [
+    {
+      "name": "GDG-Edit",
+      "full": "priyanshu-1006/GDG-Edit",
+      "owner": "priyanshu-1006",
+      "url": "https://github.com/priyanshu-1006/GDG-Edit",
+      "description": "Google Developers Group",
+      "language": "JavaScript",
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2026-04-07T21:05:32Z",
+      "createdAt": "2025-10-16T13:02:21Z",
+      "commits": 43,
+      "totalCommits": 98,
+      "share": 0.4387755102040816,
+      "rank": 2,
+      "contributors": 5,
+      "top": false,
+      "external": false,
+      "checkedAt": "2026-11-01T20:23:20.457Z",
+      "cached": true
+    },
+    {
+      "name": "Haazir-Smart-Attendence-Management-System",
+      "full": "priyanshu-1006/Haazir-Smart-Attendence-Management-System",
+      "owner": "priyanshu-1006",
+      "url": "https://github.com/priyanshu-1006/Haazir-Smart-Attendence-Management-System",
+      "description": "Automated Attendance through Face Recognition, Smart Timetable Generator, Smart Data Entry",
+      "language": "TypeScript",
+      "stars": 2,
+      "forks": 0,
+      "pushedAt": "2025-12-03T13:46:15Z",
+      "createdAt": "2025-10-10T11:44:37Z",
+      "commits": 43,
+      "totalCommits": 93,
+      "share": 0.46236559139784944,
+      "rank": 1,
+      "contributors": 4,
+      "top": true,
+      "external": false,
+      "checkedAt": "2026-11-01T20:23:23.376Z",
+      "cached": true
+    },
+    {
+      "name": "DSA",
+      "full": "priyanshu-1006/DSA",
+      "owner": "priyanshu-1006",
+      "url": "https://github.com/priyanshu-1006/DSA",
+      "description": null,
+      "language": "C++",
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2026-07-31T18:56:36Z",
+      "createdAt": "2026-01-04T07:52:07Z",
+      "commits": 40,
+      "totalCommits": 40,
+      "share": 1,
+      "rank": 1,
+      "contributors": 1,
+      "top": true,
+      "external": false,
+      "checkedAt": "2026-11-01T20:23:18.701Z",
+      "cached": true
+    },
+    {
+      "name": "bookease-client",
+      "full": "priyanshu-1006/bookease-client",
+      "owner": "priyanshu-1006",
+      "url": "https://github.com/priyanshu-1006/bookease-client",
+      "description": "Booking Application",
+      "language": "JavaScript",
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2025-07-17T04:27:41Z",
+      "createdAt": "2025-07-12T08:28:18Z",
+      "commits": 30,
+      "totalCommits": 30,
+      "share": 1,
+      "rank": 1,
+      "contributors": 1,
+      "top": true,
+      "external": false,
+      "checkedAt": "2026-11-01T20:23:26.175Z",
+      "cached": true
+    },
+    {
+      "name": "Generative-AI",
+      "full": "priyanshu-1006/Generative-AI",
+      "owner": "priyanshu-1006",
+      "url": "https://github.com/priyanshu-1006/Generative-AI",
+      "description": null,
+      "language": "Jupyter Notebook",
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2026-10-24T10:17:29Z",
+      "createdAt": "2026-02-27T07:58:44Z",
+      "commits": 26,
+      "totalCommits": 26,
+      "share": 1,
+      "rank": 1,
+      "contributors": 1,
+      "top": true,
+      "external": false,
+      "checkedAt": "2026-11-01T20:23:18.192Z",
+      "cached": true
+    },
+    {
+      "name": "PrimeAI-2025",
+      "full": "priyanshu-1006/PrimeAI-2025",
+      "owner": "priyanshu-1006",
+      "url": "https://github.com/priyanshu-1006/PrimeAI-2025",
+      "description": "FDP Portal",
+      "language": "HTML",
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2025-12-14T12:40:55Z",
+      "createdAt": "2025-11-14T14:04:30Z",
+      "commits": 23,
+      "totalCommits": 23,
+      "share": 1,
+      "rank": 1,
+      "contributors": 1,
+      "top": true,
+      "external": false,
+      "checkedAt": "2026-11-01T20:23:22.500Z",
+      "cached": true
+    },
+    {
+      "name": "PathFinder-AI",
+      "full": "priyanshu-1006/PathFinder-AI",
+      "owner": "priyanshu-1006",
+      "url": "https://github.com/priyanshu-1006/PathFinder-AI",
+      "description": "Career Coach",
+      "language": "JavaScript",
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2025-09-23T20:09:20Z",
+      "createdAt": "2025-09-02T05:26:04Z",
+      "commits": 15,
+      "totalCommits": 62,
+      "share": 0.24193548387096775,
+      "rank": 2,
+      "contributors": 3,
+      "top": false,
+      "external": false,
+      "checkedAt": "2026-11-01T20:23:25.161Z",
+      "cached": true
+    },
+    {
+      "name": "Aurora-ForeCasting-Intelligence-Platform",
+      "full": "priyanshu-1006/Aurora-ForeCasting-Intelligence-Platform",
+      "owner": "priyanshu-1006",
+      "url": "https://github.com/priyanshu-1006/Aurora-ForeCasting-Intelligence-Platform",
+      "description": null,
+      "language": "TypeScript",
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2026-03-15T18:45:34Z",
+      "createdAt": "2026-03-14T14:34:00Z",
+      "commits": 13,
+      "totalCommits": 28,
+      "share": 0.4642857142857143,
+      "rank": 2,
+      "contributors": 3,
+      "top": false,
+      "external": false,
+      "checkedAt": "2026-11-01T20:23:20.919Z",
+      "cached": true
+    },
+    {
+      "name": "bookease-server",
+      "full": "priyanshu-1006/bookease-server",
+      "owner": "priyanshu-1006",
+      "url": "https://github.com/priyanshu-1006/bookease-server",
+      "description": "Booking Application Backend",
+      "language": "JavaScript",
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2025-07-17T04:26:45Z",
+      "createdAt": "2025-07-12T08:42:15Z",
+      "commits": 10,
+      "totalCommits": 10,
+      "share": 1,
+      "rank": 1,
+      "contributors": 1,
+      "top": true,
+      "external": false,
+      "checkedAt": "2026-11-01T20:23:26.538Z",
+      "cached": true
+    },
+    {
+      "name": "FinAgent",
+      "full": "priyanshu-1006/FinAgent",
+      "owner": "priyanshu-1006",
+      "url": "https://github.com/priyanshu-1006/FinAgent",
+      "description": null,
+      "language": "Python",
+      "stars": 1,
+      "forks": 0,
+      "pushedAt": "2026-01-12T09:06:08Z",
+      "createdAt": "2025-12-06T21:31:19Z",
+      "commits": 7,
+      "totalCommits": 30,
+      "share": 0.23333333333333334,
+      "rank": 2,
+      "contributors": 4,
+      "top": false,
+      "external": false,
+      "checkedAt": "2026-11-01T20:23:22.073Z",
+      "cached": true
+    },
+    {
+      "name": "Ai-Support-System",
+      "full": "priyanshu-1006/Ai-Support-System",
+      "owner": "priyanshu-1006",
+      "url": "https://github.com/priyanshu-1006/Ai-Support-System",
+      "description": null,
+      "language": "JavaScript",
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2026-06-15T15:56:00Z",
+      "createdAt": "2026-06-09T15:32:15Z",
+      "commits": 6,
+      "totalCommits": 15,
+      "share": 0.4,
+      "rank": 2,
+      "contributors": 2,
+      "top": false,
+      "external": false,
+      "checkedAt": "2026-11-01T20:23:19.112Z",
+      "cached": true
+    },
+    {
+      "name": "priyanshu-1006",
+      "full": "priyanshu-1006/priyanshu-1006",
+      "owner": "priyanshu-1006",
+      "url": "https://github.com/priyanshu-1006/priyanshu-1006",
+      "description": null,
+      "language": null,
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2025-10-23T20:19:07Z",
+      "createdAt": "2025-10-23T19:46:37Z",
+      "commits": 5,
+      "totalCommits": 5,
+      "share": 1,
+      "rank": 1,
+      "contributors": 1,
+      "top": true,
+      "external": false,
+      "checkedAt": "2026-11-01T20:23:24.141Z",
+      "cached": true
+    },
+    {
+      "name": "PriyanshuHai",
+      "full": "priyanshu-1006/PriyanshuHai",
+      "owner": "priyanshu-1006",
+      "url": "https://github.com/priyanshu-1006/PriyanshuHai",
+      "description": null,
+      "language": "JavaScript",
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2026-11-01T20:10:55Z",
+      "createdAt": "2026-08-22T22:06:26Z",
+      "commits": 4,
+      "totalCommits": 4,
+      "share": 1,
+      "rank": 1,
+      "contributors": 1,
+      "top": true,
+      "external": false,
+      "checkedAt": "2026-11-01T20:23:17.280Z",
+      "cached": true
+    },
+    {
+      "name": "Little_Code",
+      "full": "priyanshu-1006/Little_Code",
+      "owner": "priyanshu-1006",
+      "url": "https://github.com/priyanshu-1006/Little_Code",
+      "description": null,
+      "language": "TypeScript",
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2026-10-31T23:23:30Z",
+      "createdAt": "2026-10-10T06:13:25Z",
+      "commits": 4,
+      "totalCommits": 4,
+      "share": 1,
+      "rank": 1,
+      "contributors": 1,
+      "top": true,
+      "external": false,
+      "checkedAt": "2026-11-01T20:23:17.678Z",
+      "cached": true
+    },
+    {
+      "name": "PrimeTrade.ai",
+      "full": "priyanshu-1006/PrimeTrade.ai",
+      "owner": "priyanshu-1006",
+      "url": "https://github.com/priyanshu-1006/PrimeTrade.ai",
+      "description": null,
+      "language": "TypeScript",
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2026-05-01T19:37:38Z",
+      "createdAt": "2026-05-01T19:23:01Z",
+      "commits": 4,
+      "totalCommits": 4,
+      "share": 1,
+      "rank": 1,
+      "contributors": 1,
+      "top": true,
+      "external": false,
+      "checkedAt": "2026-11-01T20:23:19.520Z",
+      "cached": true
+    },
+    {
+      "name": "Pramaan-AI",
+      "full": "priyanshu-1006/Pramaan-AI",
+      "owner": "priyanshu-1006",
+      "url": "https://github.com/priyanshu-1006/Pramaan-AI",
+      "description": null,
+      "language": "JavaScript",
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2026-04-19T07:14:37Z",
+      "createdAt": "2026-04-19T05:59:28Z",
+      "commits": 2,
+      "totalCommits": 2,
+      "share": 1,
+      "rank": 1,
+      "contributors": 1,
+      "top": true,
+      "external": false,
+      "checkedAt": "2026-11-01T20:23:19.946Z",
+      "cached": true
+    },
+    {
+      "name": "Immerse-2026",
+      "full": "priyanshu-1006/Immerse-2026",
+      "owner": "priyanshu-1006",
+      "url": "https://github.com/priyanshu-1006/Immerse-2026",
+      "description": null,
+      "language": "JavaScript",
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2026-02-17T01:55:58Z",
+      "createdAt": "2026-02-17T01:36:55Z",
+      "commits": 2,
+      "totalCommits": 2,
+      "share": 1,
+      "rank": 1,
+      "contributors": 1,
+      "top": true,
+      "external": false,
+      "checkedAt": "2026-11-01T20:23:21.284Z",
+      "cached": true
+    },
+    {
+      "name": "Job-Import-System",
+      "full": "priyanshu-1006/Job-Import-System",
+      "owner": "priyanshu-1006",
+      "url": "https://github.com/priyanshu-1006/Job-Import-System",
+      "description": null,
+      "language": "TypeScript",
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2026-01-21T23:38:54Z",
+      "createdAt": "2026-01-21T23:36:07Z",
+      "commits": 1,
+      "totalCommits": 1,
+      "share": 1,
+      "rank": 1,
+      "contributors": 1,
+      "top": true,
+      "external": false,
+      "checkedAt": "2026-11-01T20:23:21.671Z",
+      "cached": true
+    },
+    {
+      "name": "Library-Management-System-App",
+      "full": "priyanshu-1006/Library-Management-System-App",
+      "owner": "priyanshu-1006",
+      "url": "https://github.com/priyanshu-1006/Library-Management-System-App",
+      "description": null,
+      "language": "JavaScript",
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2025-11-07T01:23:31Z",
+      "createdAt": "2025-11-07T01:21:48Z",
+      "commits": 1,
+      "totalCommits": 1,
+      "share": 1,
+      "rank": 1,
+      "contributors": 1,
+      "top": true,
+      "external": false,
+      "checkedAt": "2026-11-01T20:23:23.750Z",
+      "cached": true
+    },
+    {
+      "name": "GDG_Website",
+      "full": "priyanshu-1006/GDG_Website",
+      "owner": "priyanshu-1006",
+      "url": "https://github.com/priyanshu-1006/GDG_Website",
+      "description": null,
+      "language": "JavaScript",
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2025-10-03T18:47:07Z",
+      "createdAt": "2025-10-03T18:41:11Z",
+      "commits": 1,
+      "totalCommits": 76,
+      "share": 0.013157894736842105,
+      "rank": 3,
+      "contributors": 3,
+      "top": false,
+      "external": false,
+      "checkedAt": "2026-11-01T20:23:24.746Z",
+      "cached": true
+    }
+  ],
+  "external": [
+    {
+      "name": "Grylink_New",
+      "full": "riteshydv05/Grylink_New",
+      "owner": "riteshydv05",
+      "url": "https://github.com/riteshydv05/Grylink_New",
+      "description": null,
+      "commits": 51,
+      "lastCommit": "2026-07-08T01:18:12.000+05:30",
+      "external": true
+    },
+    {
+      "name": "Ananya_Portfolio",
+      "full": "ananya-in-tech/Ananya_Portfolio",
+      "owner": "ananya-in-tech",
+      "url": "https://github.com/ananya-in-tech/Ananya_Portfolio",
+      "description": null,
+      "commits": 2,
+      "lastCommit": "2026-09-08T23:43:10.000+05:30",
+      "external": true
+    },
+    {
+      "name": "API-security",
+      "full": "rjnneesh/API-security",
+      "owner": "rjnneesh",
+      "url": "https://github.com/rjnneesh/API-security",
+      "description": null,
+      "commits": 2,
+      "lastCommit": "2026-04-18T23:32:14.000+05:30",
+      "external": true
+    }
+  ],
+  "activity": [
+    {
+      "date": "2026-10-10",
+      "pushes": 1
+    },
+    {
+      "date": "2026-10-19",
+      "pushes": 2
+    },
+    {
+      "date": "2026-10-24",
+      "pushes": 1
+    }
+  ],
+  "recent": [
+    {
+      "type": "PushEvent",
+      "repo": "priyanshu-1006/Generative-AI",
+      "at": "2026-10-24T10:17:30Z",
+      "ref": null,
+      "action": null
+    },
+    {
+      "type": "PushEvent",
+      "repo": "priyanshu-1006/Little_Code",
+      "at": "2026-10-19T18:54:39Z",
+      "ref": null,
+      "action": null
+    },
+    {
+      "type": "PushEvent",
+      "repo": "priyanshu-1006/Little_Code",
+      "at": "2026-10-19T07:55:25Z",
+      "ref": null,
+      "action": null
+    },
+    {
+      "type": "PushEvent",
+      "repo": "priyanshu-1006/Little_Code",
+      "at": "2026-10-10T18:57:53Z",
+      "ref": null,
+      "action": null
+    },
+    {
+      "type": "CreateEvent",
+      "repo": "priyanshu-1006/Little_Code",
+      "at": "2026-10-10T06:46:22Z",
+      "ref": "branch",
+      "action": null
+    }
+  ]
+}

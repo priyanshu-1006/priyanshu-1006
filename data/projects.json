@@ -1,0 +1,490 @@
+[
+  {
+    "slug": "little-code",
+    "title": "Little Code",
+    "blurb": "An AI coding companion built into its own Code-OSS desktop app. Ask, plan, review edits and run supervised agents without leaving the workspace.",
+    "tech": [
+      "TypeScript",
+      "Electron",
+      "Code-OSS",
+      "React",
+      "Groq",
+      "Ollama",
+      "MCP"
+    ],
+    "links": {
+      "live": "https://little-code.vercel.app/",
+      "github": "https://github.com/priyanshu-1006/Little_Code"
+    },
+    "role": "Creator & developer",
+    "status": "Development preview",
+    "caseStudy": "https://priyanshu-hai.vercel.app/projects/little-code",
+    "image": "assets/projects/little-code.webp"
+  },
+  {
+    "slug": "little-terminal",
+    "title": "Little Terminal",
+    "blurb": "A native Rust terminal with GPU rendering, real ConPTY sessions, split workspaces, service orchestration and reviewed AI actions.",
+    "tech": ["Rust", "wgpu", "winit", "ConPTY", "Tokio", "SQLite", "AccessKit"],
+    "links": {
+      "live": "https://little-terminal.vercel.app/",
+      "github": "https://github.com/priyanshu-1006/Little_Terminal"
+    },
+    "role": "Creator & developer",
+    "status": "Development preview",
+    "caseStudy": "https://priyanshu-hai.vercel.app/projects/little-terminal",
+    "image": "assets/projects/little-terminal.webp"
+  },
+  {
+    "slug": "nexsus-universe",
+    "title": "Nexsus",
+    "blurb": "A unified digital ecosystem for the MMMUT campus — five portals, two mobile apps and five RAG-backed assistants on one backend. The CSE department now runs its live timetable on it.",
+    "tech": [
+      "React",
+      "TypeScript",
+      "Express",
+      "Prisma",
+      "PostgreSQL",
+      "pgvector",
+      "React Native",
+      "Expo",
+      "LangChain",
+      "LangGraph",
+      "Redis",
+      "Playwright"
+    ],
+    "links": {
+      "live": "https://mmmut.app",
+      "tools": "https://nexsus-tools-frontend.vercel.app/"
+    },
+    "role": "Founder, President & Architect",
+    "status": "Live",
+    "caseStudy": "https://priyanshu-hai.vercel.app/projects/nexsus-universe",
+    "image": "assets/projects/nexsus-universe.png"
+  },
+  {
+    "slug": "cognito-learning-hub",
+    "title": "Cognito Learning Hub",
+    "blurb": "A twelve-service AI learning platform with live multiplayer quizzes — national winner of the Upskill India Challenge at IIT Bombay Techfest ’25.",
+    "tech": [
+      "React",
+      "Node.js",
+      "Express",
+      "MongoDB Atlas",
+      "Redis",
+      "Socket.IO",
+      "Bull",
+      "MediaSoup",
+      "WebRTC",
+      "Google Gemini",
+      "Vite",
+      "Tailwind CSS"
+    ],
+    "links": {
+      "live": "https://cognito-learning-hub.vercel.app",
+      "api": "https://cognito-api.onrender.com",
+      "github": "https://github.com/amitesh-7/Cognito_Learning_Hub"
+    },
+    "role": "Team — OPTIMISTIC MUTANT CODERS",
+    "status": "Live",
+    "caseStudy": "https://priyanshu-hai.vercel.app/projects/cognito-learning-hub",
+    "image": "assets/projects/cognito-learning-hub.png"
+  },
+  {
+    "slug": "fracturevision-ai",
+    "title": "FractureVision AI",
+    "blurb": "Three complementary models for bone fracture diagnosis — 99.01% binary accuracy, plus ten-class detection with explainability.",
+    "tech": [
+      "PyTorch",
+      "timm",
+      "Ultralytics",
+      "ViT-Base/16",
+      "YOLOv10n",
+      "Grad-CAM",
+      "FastAPI",
+      "React",
+      "Tailwind CSS"
+    ],
+    "links": {},
+    "role": "ML engineering",
+    "status": "Complete",
+    "caseStudy": "https://priyanshu-hai.vercel.app/projects/fracturevision-ai",
+    "image": "assets/projects/fracturevision-ai.png"
+  },
+  {
+    "slug": "nexsus-assist",
+    "title": "Nexsus Assist",
+    "blurb": "Fifty-five file and developer utilities behind a chat interface that routes your request to the right one.",
+    "tech": [
+      "Next.js 15",
+      "TypeScript",
+      "FastAPI",
+      "Python",
+      "Groq",
+      "Claude",
+      "Tailwind CSS",
+      "shadcn/ui",
+      "Docker"
+    ],
+    "links": {},
+    "role": "Full stack",
+    "status": "Live",
+    "caseStudy": "https://priyanshu-hai.vercel.app/projects/nexsus-assist",
+    "image": "assets/projects/nexsus-assist.png"
+  },
+  {
+    "slug": "haazir",
+    "title": "Haazir",
+    "blurb": "Attendance that survives contact with students — cryptographic QR, ArcFace biometrics and geo-fencing — plus the CSP solver that now timetables an entire department.",
+    "tech": [
+      "React",
+      "TypeScript",
+      "Node.js",
+      "Express",
+      "Prisma",
+      "PostgreSQL",
+      "Supabase",
+      "ArcFace",
+      "RetinaFace",
+      "ResNet-50",
+      "React Native",
+      "Expo"
+    ],
+    "links": {
+      "live": "https://haazir-six.vercel.app",
+      "github": "https://github.com/priyanshu-1006/Haazir-Smart-Attendence-Management-System"
+    },
+    "role": "Backend & AI — team project",
+    "status": "Live",
+    "caseStudy": "https://priyanshu-hai.vercel.app/projects/haazir",
+    "image": "assets/projects/haazir.png"
+  },
+  {
+    "slug": "washtro",
+    "title": "Washtro",
+    "blurb": "Garment-level chain of custody for a laundry chain — every individual item tracked, timestamped and provable.",
+    "tech": [
+      "NestJS",
+      "TypeScript",
+      "Prisma",
+      "PostgreSQL",
+      "Redis",
+      "Next.js",
+      "PWA",
+      "IndexedDB",
+      "Turborepo",
+      "pnpm",
+      "Razorpay"
+    ],
+    "links": {
+      "live": "https://www.washtro.com"
+    },
+    "role": "CTO — complete technical architecture",
+    "status": "Live",
+    "caseStudy": "https://priyanshu-hai.vercel.app/projects/washtro",
+    "image": "assets/projects/washtro.png"
+  },
+  {
+    "slug": "washing-bro",
+    "title": "Washing Bro",
+    "blurb": "Laundry-as-a-service for the MMMUT campus — four web surfaces, a Flutter app, subscriptions and a referral wallet.",
+    "tech": [
+      "Express",
+      "TypeScript",
+      "Prisma",
+      "PostgreSQL",
+      "Supabase",
+      "React",
+      "Vite",
+      "Tailwind CSS",
+      "Zustand",
+      "Flutter",
+      "Riverpod",
+      "Razorpay",
+      "OneSignal",
+      "Turborepo",
+      "pnpm"
+    ],
+    "links": {},
+    "role": "Solo — my own product",
+    "status": "Live",
+    "caseStudy": "https://priyanshu-hai.vercel.app/projects/washing-bro",
+    "image": "assets/projects/washing-bro.png"
+  },
+  {
+    "slug": "aurorahai",
+    "title": "AuroraHai",
+    "blurb": "Hyper-local aurora forecasting — space weather telemetry joined to local sky conditions, for photographers.",
+    "tech": [
+      "Python",
+      "FastAPI",
+      "Pydantic V2",
+      "React",
+      "TypeScript",
+      "Vite",
+      "MapLibre GL",
+      "Zustand",
+      "Recharts",
+      "WebSocket"
+    ],
+    "links": {},
+    "role": "Full stack",
+    "status": "Complete",
+    "caseStudy": "https://priyanshu-hai.vercel.app/projects/aurorahai",
+    "image": "assets/projects/aurorahai.jpeg"
+  },
+  {
+    "slug": "mmmut-notice",
+    "title": "MMMUT Notice",
+    "blurb": "Official university notices turned into reviewed student updates: source monitoring, PDF/OCR extraction, AI drafting, email subscriptions and Nexsus sync.",
+    "tech": ["Python", "SQLite", "Groq", "pypdf", "Tesseract", "SMTP", "HMAC"],
+    "links": {},
+    "role": "Creator & developer",
+    "status": "Local prototype",
+    "caseStudy": "https://priyanshu-hai.vercel.app/projects/mmmut-notice",
+    "image": "assets/projects/mmmut-notice.webp"
+  },
+  {
+    "slug": "manakmitra",
+    "title": "ManakMitra",
+    "blurb": "Evidence-grounded Indian Standards discovery: cited answers, deterministic certification checks, lab search and a traceable compliance workspace.",
+    "tech": [
+      "React",
+      "TypeScript",
+      "NestJS",
+      "FastAPI",
+      "LangGraph",
+      "PostgreSQL",
+      "pgvector",
+      "Redis",
+      "Drizzle"
+    ],
+    "links": {
+      "live": "https://manakmitra.me",
+      "github": "https://github.com/ananya10kumari19-art/ManakMitra"
+    },
+    "role": "Team project · Optimistic Mutant Coders",
+    "status": "SIH prototype",
+    "caseStudy": "https://priyanshu-hai.vercel.app/projects/manakmitra",
+    "image": "assets/projects/manakmitra.webp"
+  },
+  {
+    "slug": "satyadwar",
+    "title": "SatyaDwar",
+    "blurb": "An offline-first identity-document screening prototype with signed-QR verification, OCR comparisons, itemised evidence and an installable checkpoint node.",
+    "tech": [
+      "Python",
+      "FastAPI",
+      "React",
+      "TypeScript",
+      "PostgreSQL",
+      "Redis",
+      "MinIO",
+      "Flutter",
+      "Docker"
+    ],
+    "links": {},
+    "role": "Team project",
+    "status": "SIH prototype",
+    "caseStudy": "https://priyanshu-hai.vercel.app/projects/satyadwar",
+    "image": "assets/projects/satyadwar.webp"
+  },
+  {
+    "slug": "nexsus-counselling",
+    "title": "Nexsus Counselling Support",
+    "blurb": "Admission counselling for UP state engineering aspirants. 900 students used it, 450 took mentorship, 200+ got into MMMUT.",
+    "tech": ["React", "Node.js", "PostgreSQL", "Prisma"],
+    "links": {
+      "live": "https://counselling.mmmut.app"
+    },
+    "role": "Built and ran it under Nexsus",
+    "status": "Live",
+    "caseStudy": "https://priyanshu-hai.vercel.app/projects/nexsus-counselling",
+    "image": "assets/projects/nexsus-counselling.png"
+  },
+  {
+    "slug": "gryork",
+    "title": "Gryork",
+    "blurb": "A bill-discounting marketplace giving infrastructure sub-contractors liquidity on unpaid receivables. The architecture won a ₹2.5 lakh grant.",
+    "tech": ["React", "Node.js", "TypeScript", "PostgreSQL", "REST"],
+    "links": {
+      "live": "https://www.gryork.com"
+    },
+    "role": "CTO — architecture from idea to execution",
+    "status": "Live",
+    "caseStudy": "https://priyanshu-hai.vercel.app/projects/gryork",
+    "image": "assets/projects/gryork.png"
+  },
+  {
+    "slug": "vigilant-bhai",
+    "title": "Vigilant-Bhai",
+    "blurb": "Fraud detection that does not stop at \"is this a scam\" — it traces where the scam started and predicts where it spreads next.",
+    "tech": [
+      "Python",
+      "FastAPI",
+      "PyTorch",
+      "HuggingFace",
+      "DistilBERT",
+      "XLM-RoBERTa",
+      "NetworkX",
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "Redis",
+      "React",
+      "Vis.js"
+    ],
+    "links": {
+      "github": "https://github.com/priyanshu-1006/Vigilant-Bhai"
+    },
+    "role": "Solo build",
+    "status": "Complete",
+    "caseStudy": "https://priyanshu-hai.vercel.app/projects/vigilant-bhai",
+    "image": "assets/projects/vigilant-bhai.png"
+  },
+  {
+    "slug": "anand-pumps",
+    "title": "Anand Pumps",
+    "blurb": "A commercial e-commerce storefront for an ISI-certified water pump manufacturer — catalogue, cart and quote flow.",
+    "tech": ["React", "Tailwind CSS", "Node.js"],
+    "links": {},
+    "role": "Client build",
+    "status": "Live",
+    "caseStudy": "https://priyanshu-hai.vercel.app/projects/anand-pumps",
+    "image": "assets/projects/anand-pumps.png"
+  },
+  {
+    "slug": "pathfinder-ai",
+    "title": "PathFinder AI",
+    "blurb": "A career and skills advisor that turns a student profile into a concrete, trackable learning roadmap for the Indian job market.",
+    "tech": [
+      "React",
+      "Vite",
+      "Material UI",
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "Mongoose",
+      "JWT",
+      "Google Gemini"
+    ],
+    "links": {},
+    "role": "Full stack",
+    "status": "Complete",
+    "caseStudy": "https://priyanshu-hai.vercel.app/projects/pathfinder-ai",
+    "image": "assets/projects/pathfinder-ai.png"
+  },
+  {
+    "slug": "finagent-ai",
+    "title": "FinAgent",
+    "blurb": "An agent that executes financial tasks by driving a real browser — and stops to ask before it commits anything.",
+    "tech": [
+      "Python",
+      "FastAPI",
+      "Playwright",
+      "React",
+      "Vite",
+      "GPT-4o",
+      "Gemini 1.5 Pro",
+      "WebSocket"
+    ],
+    "links": {},
+    "role": "Full stack",
+    "status": "Complete",
+    "caseStudy": "https://priyanshu-hai.vercel.app/projects/finagent-ai",
+    "image": null
+  },
+  {
+    "slug": "medichain-ai",
+    "title": "MediChain AI",
+    "blurb": "Federated learning across hospitals with blockchain-verified model provenance — patient data never leaves the building.",
+    "tech": [
+      "PyTorch",
+      "Flower",
+      "ResNet-50",
+      "Solidity",
+      "Hardhat",
+      "Polygon",
+      "IPFS",
+      "Pinata",
+      "Next.js",
+      "Viem",
+      "FastAPI"
+    ],
+    "links": {},
+    "role": "Architecture & build",
+    "status": "In progress",
+    "caseStudy": "https://priyanshu-hai.vercel.app/projects/medichain-ai",
+    "image": null
+  },
+  {
+    "slug": "gryork-techpreneur",
+    "title": "Gryork Techpreneur 2026",
+    "blurb": "A four-week industrial programme I built the platform for and taught — 85+ students, at ₹1,200 a seat.",
+    "tech": ["React", "Node.js", "Payment integration"],
+    "links": {
+      "live": "https://training.gryork.com"
+    },
+    "role": "Platform build & instruction",
+    "status": "Delivered",
+    "caseStudy": "https://priyanshu-hai.vercel.app/projects/gryork-techpreneur",
+    "image": null
+  },
+  {
+    "slug": "gdg-mmmut",
+    "title": "GDG on Campus — MMMUT",
+    "blurb": "The chapter’s web presence, plus an induction system that processed 250+ applicants end to end.",
+    "tech": ["React", "Node.js", "Automated email", "RBAC"],
+    "links": {
+      "live": "https://gdg.mmmut.app"
+    },
+    "role": "Organiser & Campus Lead (Sep 2026 — Present)",
+    "status": "Live",
+    "caseStudy": "https://priyanshu-hai.vercel.app/projects/gdg-mmmut",
+    "image": "assets/projects/gdg-mmmut.png"
+  },
+  {
+    "slug": "mmmut-fdp",
+    "title": "MMMUT Faculty Development Programme",
+    "blurb": "Pages on the university’s official website — my code running on mmmut.ac.in.",
+    "tech": ["HTML", "CSS", "JavaScript"],
+    "links": {
+      "live": "https://mmmut.ac.in/primeai"
+    },
+    "role": "Contributor",
+    "status": "Live",
+    "caseStudy": "https://priyanshu-hai.vercel.app/projects/mmmut-fdp",
+    "image": "assets/projects/mmmut-fdp.png"
+  },
+  {
+    "slug": "quizwise-ai",
+    "title": "QuizWise AI",
+    "blurb": "An AI quiz platform built for my mother, a school teacher. Point it at a topic or a PDF and it writes the paper. The project where I stopped building screens and started building systems.",
+    "tech": [
+      "React",
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "Gemini",
+      "Google OAuth"
+    ],
+    "links": {},
+    "role": "Solo — design, backend, AI pipeline",
+    "status": "Built",
+    "caseStudy": "https://priyanshu-hai.vercel.app/projects/quizwise-ai",
+    "image": "assets/projects/quizwise-ai.png"
+  },
+  {
+    "slug": "bookease",
+    "title": "BookEase",
+    "blurb": "A MERN appointment booking system, built and shipped during a four-week internship.",
+    "tech": ["MongoDB", "Express", "React", "Node.js"],
+    "links": {
+      "live": "https://bookease-client.vercel.app/"
+    },
+    "role": "Full stack — internship project",
+    "status": "Live",
+    "caseStudy": "https://priyanshu-hai.vercel.app/projects/bookease",
+    "image": "assets/projects/bookease.png"
+  }
+]
