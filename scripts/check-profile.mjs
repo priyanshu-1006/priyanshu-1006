@@ -55,7 +55,7 @@ if (
 )
   errors.push('Unbalanced expandable sections')
 if (
-  /github-readme-stats\.vercel\.app|activity-graph\.vercel\.app|\/Little_Terminal\)/.test(
+  /github-readme-stats\.vercel\.app|activity-graph\.vercel\.app|ghchart\.rshah\.org|\/Little_Terminal\)/.test(
     readme,
   )
 )

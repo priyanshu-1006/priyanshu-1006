@@ -1,6 +1,7 @@
 import { readFile, writeFile, mkdir, rename } from 'node:fs/promises'
 import { resolve, dirname } from 'node:path'
 import { fileURLToPath } from 'node:url'
+import { renderContributionCard } from '../lib/contribution-card.mjs'
 
 const root = resolve(dirname(fileURLToPath(import.meta.url)), '..')
 const path = (file) => resolve(root, file)
@@ -45,7 +46,10 @@ const colors = {
 }
 
 function svg(width, height, label, content, defs = '') {
-  return `<svg xmlns="http://www.w3.org/2000/svg" width="${width}" height="${height}" viewBox="0 0 ${width} ${height}" role="img" aria-labelledby="title"><title id="title">${xml(label)}</title><defs>${defs}</defs>${content}</svg>\n`.replace(/[ \t]+$/gm, '')
+  return `<svg xmlns="http://www.w3.org/2000/svg" width="${width}" height="${height}" viewBox="0 0 ${width} ${height}" role="img" aria-labelledby="title"><title id="title">${xml(label)}</title><defs>${defs}</defs>${content}</svg>\n`.replace(
+    /[ \t]+$/gm,
+    '',
+  )
 }
 
 function text(x, y, value, size = 16, color = '#f3f2ed', attrs = '') {
@@ -131,38 +135,6 @@ function section(label, subtitle, mode) {
     90,
     `${label}. ${subtitle}`,
     `<rect x="1" y="1" width="1098" height="88" rx="15" fill="${c.bg}" stroke="${c.line}"/><rect x="24" y="25" width="4" height="40" rx="2" fill="${c.blue}"/>${text(45, 39, label, 24, c.ink, 'font-weight="650"')}${text(45, 64, subtitle, 14, c.muted)}<path d="M1020 45h45m-10-10 10 10-10 10" fill="none" stroke="${c.blue}" stroke-width="2"/>`,
-  )
-}
-
-function activity(snapshot, mode) {
-  const c = colors[mode],
-    days = snapshot.calendar.days
-  const startOffset = new Date(`${days[0].d}T00:00:00Z`).getUTCDay()
-  const palette = [c.panel, '#30496a', '#496f9e', '#709bd0', c.blue]
-  const cells = days
-    .map((day, i) => {
-      const index = i + startOffset,
-        level =
-          day.c === 0 ? 0 : day.c < 4 ? 1 : day.c < 9 ? 2 : day.c < 18 ? 3 : 4
-      return `<rect x="${36 + Math.floor(index / 7) * 18.5}" y="${115 + (index % 7) * 18}" width="14" height="14" rx="3" fill="${palette[level]}"><title>${day.d}: ${day.c} contributions</title></rect>`
-    })
-    .join('')
-  const last = snapshot.history.commits.slice(0, 3)
-  const recent = last
-    .map(
-      (commit, i) =>
-        `${text(38, 306 + i * 28, '●', 11, c.blue)}${text(60, 307 + i * 28, commit.message.slice(0, 62), 15, c.ink)}${text(1060, 307 + i * 28, `${commit.shortSha} / ${commit.repoName.slice(0, 26)}`, 12, c.muted, 'text-anchor="end"')}`,
-    )
-    .join('')
-  const date = new Intl.DateTimeFormat('en-IN', {
-    dateStyle: 'medium',
-    timeZone: 'Asia/Kolkata',
-  }).format(new Date(snapshot.generatedAt))
-  return svg(
-    1100,
-    430,
-    `Saved GitHub activity snapshot, ${date}: ${snapshot.calendar.total} contributions, ${snapshot.calendar.activeDays} active days.`,
-    `<rect x="1" y="1" width="1098" height="428" rx="18" fill="${c.bg}" stroke="${c.line}"/>${text(36, 42, 'THE BUILD LOG', 13, c.blue, 'letter-spacing="2"')}${text(36, 80, `${snapshot.calendar.total.toLocaleString('en-IN')} contributions`, 28, c.ink, 'font-weight="650"')}${text(1060, 77, `${snapshot.calendar.activeDays} active days / rolling year`, 14, c.muted, 'text-anchor="end"')}${cells}<line x1="36" y1="265" x2="1064" y2="265" stroke="${c.line}"/>${recent}${text(36, 405, `SNAPSHOT / ${date.toUpperCase()} · GitHub public calendar + indexed public commits`, 11, c.muted, 'letter-spacing=".5"')}`,
   )
 }
 
@@ -356,19 +328,41 @@ ${icon('fastapi', 'FastAPI')} &nbsp; ${icon('postgressql', 'PostgreSQL')} &nbsp;
   <a href="${github}?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?${publicRepos.toString().replace(/&/g, '&amp;')}" alt="Public repository count from the portfolio's refreshed snapshot"></a>
 </p>
 
-<a href="${github}?tab=overview"><img src="https://ghchart.rshah.org/8cb8ff/priyanshu-1006" alt="Live rolling-year GitHub contribution calendar" width="100%"></a>
+<a href="${portfolio}/overview#github">${picture('activity-grid', 'Recent contribution rhythm. High-contrast calendar for the latest thirteen weeks. Click to inspect days in the live portfolio.', '100%', true).replace(/\n\s*/g, '')}</a>
+
+**[Explore day by day ↗](${portfolio}/overview#github)** · [Open GitHub’s native calendar ↗](${github}?tab=overview)
+
+Click the card to inspect dates in the live portfolio. Open the panels below to explore the whole year or read exact daily counts.
+
+<details>
+<summary><strong>Expand the full year — four readable panels</strong></summary>
+
+${[0, 1, 2, 3].map((part) => picture(`activity-part-${part + 1}`, `Rolling-year contribution calendar, panel ${part + 1} of four`, '100%', true)).join('\n\n')}
+
+</details>
 
 <p>
   <a href="${github}/Little_Code"><img src="https://img.shields.io/github/last-commit/priyanshu-1006/Little_Code?style=flat-square&amp;labelColor=171b22&amp;color=9abfff&amp;label=Little%20Code" alt="Little Code's latest public commit"></a>
   <a href="${github}/PriyanshuHai"><img src="https://img.shields.io/github/last-commit/priyanshu-1006/PriyanshuHai?style=flat-square&amp;labelColor=171b22&amp;color=9abfff&amp;label=Portfolio" alt="Portfolio's latest public commit"></a>
 </p>
 
-<sub>Live images refresh through their providers' caches. Contribution and repository badges read the portfolio's daily snapshot. The calendar can include private contribution counts; public code links show only public work.</sub>
+<sub>Live badges use their providers' caches and the portfolio's daily snapshot. The blue cards are a saved snapshot, dated inside each card. Contribution counts can include private activity; public code links show public work.</sub>
 
 <details>
-<summary><strong>Open the saved build log & public commit snapshot</strong></summary>
+<summary><strong>Inspect the last seven days & recent public commits</strong></summary>
 
-${picture('activity', `Saved GitHub contribution calendar and three recent public commits, generated ${snapshot.generatedAt.slice(0, 10)}`)}
+Saved ${new Intl.DateTimeFormat('en-IN', { dateStyle: 'medium', timeZone: 'Asia/Kolkata' }).format(new Date(snapshot.generatedAt))}. Select a date to open its GitHub activity.
+
+| Day (UTC) | Contributions | Inspect |
+| :--- | ---: | :--- |
+${snapshot.calendar.days
+  .slice(-7)
+  .reverse()
+  .map(
+    (day) =>
+      `| ${day.d} | **${day.c}** | [View day ↗](${github}?tab=overview&from=${day.d}&to=${day.d}) |`,
+  )
+  .join('\n')}
 
 ${snapshot.history.commits
   .slice(0, 3)
@@ -378,7 +372,7 @@ ${snapshot.history.commits
   )
   .join('\n')}
 
-This backup is stored in the repository and works independently of the live-image services. [How it refreshes](docs/profile-maintenance.md).
+The cards and daily log are stored here, so they stay visible when external image services are unavailable. [How they refresh](docs/profile-maintenance.md).
 
 </details>
 
@@ -558,9 +552,27 @@ for (const mode of ['dark', 'light']) {
     ),
   )
   await writeFile(
-    path(`assets/generated/activity-${mode}.svg`),
-    activity(snapshot, mode),
+    path(`assets/generated/activity-grid-${mode}.svg`),
+    renderContributionCard(snapshot, { theme: mode }),
   )
+  await writeFile(
+    path(`assets/generated/activity-grid-mobile-${mode}.svg`),
+    renderContributionCard(snapshot, { theme: mode, compact: true }),
+  )
+  for (let part = 0; part < 4; part++) {
+    await writeFile(
+      path(`assets/generated/activity-part-${part + 1}-${mode}.svg`),
+      renderContributionCard(snapshot, { theme: mode, segment: part }),
+    )
+    await writeFile(
+      path(`assets/generated/activity-part-${part + 1}-mobile-${mode}.svg`),
+      renderContributionCard(snapshot, {
+        theme: mode,
+        segment: part,
+        compact: true,
+      }),
+    )
+  }
 }
 await writeFile(path('README.md'), markdown(projects, profile, snapshot))
 console.log(

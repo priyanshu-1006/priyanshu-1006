@@ -273,28 +273,72 @@ A 3D computer you can enter, an XP-inspired desktop, a searchable project librar
   <a href="https://github.com/priyanshu-1006?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fpriyanshu-1006%2FPriyanshuHai%2Fmain%2Fsrc%2Fdata%2Fgithub.json&amp;query=%24.user.publicRepos&amp;label=Public+repos&amp;color=9abfff&amp;labelColor=171b22&amp;style=for-the-badge" alt="Public repository count from the portfolio's refreshed snapshot"></a>
 </p>
 
-<a href="https://github.com/priyanshu-1006?tab=overview"><img src="https://ghchart.rshah.org/8cb8ff/priyanshu-1006" alt="Live rolling-year GitHub contribution calendar" width="100%"></a>
+<a href="https://priyanshu-hai.vercel.app/overview#github"><picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/generated/activity-grid-mobile-dark.svg"><source media="(max-width: 600px)" srcset="assets/generated/activity-grid-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/generated/activity-grid-dark.svg"><img src="assets/generated/activity-grid-light.svg" alt="Recent contribution rhythm. High-contrast calendar for the latest thirteen weeks. Click to inspect days in the live portfolio." width="100%"></picture></a>
+
+**[Explore day by day ↗](https://priyanshu-hai.vercel.app/overview#github)** · [Open GitHub’s native calendar ↗](https://github.com/priyanshu-1006?tab=overview)
+
+Click the card to inspect dates in the live portfolio. Open the panels below to explore the whole year or read exact daily counts.
+
+<details>
+<summary><strong>Expand the full year — four readable panels</strong></summary>
+
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/generated/activity-part-1-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="assets/generated/activity-part-1-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/generated/activity-part-1-dark.svg">
+  <img src="assets/generated/activity-part-1-light.svg" alt="Rolling-year contribution calendar, panel 1 of four" width="100%">
+</picture>
+
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/generated/activity-part-2-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="assets/generated/activity-part-2-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/generated/activity-part-2-dark.svg">
+  <img src="assets/generated/activity-part-2-light.svg" alt="Rolling-year contribution calendar, panel 2 of four" width="100%">
+</picture>
+
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/generated/activity-part-3-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="assets/generated/activity-part-3-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/generated/activity-part-3-dark.svg">
+  <img src="assets/generated/activity-part-3-light.svg" alt="Rolling-year contribution calendar, panel 3 of four" width="100%">
+</picture>
+
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/generated/activity-part-4-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="assets/generated/activity-part-4-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/generated/activity-part-4-dark.svg">
+  <img src="assets/generated/activity-part-4-light.svg" alt="Rolling-year contribution calendar, panel 4 of four" width="100%">
+</picture>
+
+</details>
 
 <p>
   <a href="https://github.com/priyanshu-1006/Little_Code"><img src="https://img.shields.io/github/last-commit/priyanshu-1006/Little_Code?style=flat-square&amp;labelColor=171b22&amp;color=9abfff&amp;label=Little%20Code" alt="Little Code's latest public commit"></a>
   <a href="https://github.com/priyanshu-1006/PriyanshuHai"><img src="https://img.shields.io/github/last-commit/priyanshu-1006/PriyanshuHai?style=flat-square&amp;labelColor=171b22&amp;color=9abfff&amp;label=Portfolio" alt="Portfolio's latest public commit"></a>
 </p>
 
-<sub>Live images refresh through their providers' caches. Contribution and repository badges read the portfolio's daily snapshot. The calendar can include private contribution counts; public code links show only public work.</sub>
+<sub>Live badges use their providers' caches and the portfolio's daily snapshot. The blue cards are a saved snapshot, dated inside each card. Contribution counts can include private activity; public code links show public work.</sub>
 
 <details>
-<summary><strong>Open the saved build log & public commit snapshot</strong></summary>
+<summary><strong>Inspect the last seven days & recent public commits</strong></summary>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/generated/activity-dark.svg">
-  <img src="assets/generated/activity-light.svg" alt="Saved GitHub contribution calendar and three recent public commits, generated 2026-11-01" width="100%">
-</picture>
+Saved 2 Nov 2026. Select a date to open its GitHub activity.
+
+| Day (UTC) | Contributions | Inspect |
+| :--- | ---: | :--- |
+| 2026-11-01 | **1** | [View day ↗](https://github.com/priyanshu-1006?tab=overview&from=2026-11-01&to=2026-11-01) |
+| 2026-10-31 | **2** | [View day ↗](https://github.com/priyanshu-1006?tab=overview&from=2026-10-31&to=2026-10-31) |
+| 2026-10-30 | **2** | [View day ↗](https://github.com/priyanshu-1006?tab=overview&from=2026-10-30&to=2026-10-30) |
+| 2026-10-29 | **1** | [View day ↗](https://github.com/priyanshu-1006?tab=overview&from=2026-10-29&to=2026-10-29) |
+| 2026-10-28 | **1** | [View day ↗](https://github.com/priyanshu-1006?tab=overview&from=2026-10-28&to=2026-10-28) |
+| 2026-10-27 | **6** | [View day ↗](https://github.com/priyanshu-1006?tab=overview&from=2026-10-27&to=2026-10-27) |
+| 2026-10-26 | **0** | [View day ↗](https://github.com/priyanshu-1006?tab=overview&from=2026-10-26&to=2026-10-26) |
 
 - [`d3199aa`](https://github.com/priyanshu-1006/PriyanshuHai/commit/d3199aa38889584787877c98df546d0284ed26bc) · **PriyanshuHai** · Automation
 - [`7d6e230`](https://github.com/priyanshu-1006/PriyanshuHai/commit/7d6e23045d6aafc2f3c5ce6dd261d31d3c919bf2) · **PriyanshuHai** · Few updates
 - [`fe324d5`](https://github.com/priyanshu-1006/PriyanshuHai/commit/fe324d5450b3b6e2e6c1334d19d908442f622273) · **PriyanshuHai** · Minor Changes
 
-This backup is stored in the repository and works independently of the live-image services. [How it refreshes](docs/profile-maintenance.md).
+The cards and daily log are stored here, so they stay visible when external image services are unavailable. [How they refresh](docs/profile-maintenance.md).
 
 </details>
 

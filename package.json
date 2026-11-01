@@ -9,6 +9,7 @@
   "scripts": {
     "build": "node scripts/build-profile.mjs",
     "refresh": "node scripts/build-profile.mjs --refresh",
-    "check": "node scripts/check-profile.mjs"
+    "check": "node scripts/check-profile.mjs",
+    "test": "node --test tests/*.test.mjs"
   }
 }
